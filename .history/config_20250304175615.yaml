@@ -25,10 +25,12 @@ keywords:
     "MTL": 
         filters: ["MTL", "Multitask Learning", "Multi-task Learning"]
     "Dense Prediction":
-        filters: ["Dense Prediction", "Multi-task Dense Prediction", "Scene Understanding"]
+        filters: ["Dense Prediction", "Multi-task Dense Prediction", ""]
     "MTO":
         filters: ["Multitask Optimization", "Multi-task Optimization"]
     "MOO":
         filters: ["Multiobjective Optimization", "Multi-objective Optimization"]
+    "Scene Understanding":
+        filters: ["Scene Understanding"]
     "Negative Transfer":
         filters: ["Negative Transfer", "Domain Adaptation", "Domain Generalization", "Transfer Learning"]
