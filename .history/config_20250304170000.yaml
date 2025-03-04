@@ -32,5 +32,5 @@ keywords:
         filters: ["Multiobjective Optimization", "Multi-objective Optimization"]
     "Scene Understanding":
         filters: ["Scene Understanding"]
-    "Negative Transfer":
-        filters: ["Negative Transfer", "Domain Adaptation", "Domain Generalization", "Transfer Learning"]
+    "Negative ":
+        filters: ["NeRF"]

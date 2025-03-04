@@ -23,14 +23,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "MTL": 
-        filters: ["MTL", "Multitask Learning", "Multi-task Learning"]
+        filters: ["MTL", "Multitask Learning"]
     "Dense Prediction":
         filters: ["Dense Prediction"]
-    "MTO":
-        filters: ["Multitask Optimization", "Multi-task Optimization"]
-    "MOO":
-        filters: ["Multiobjective Optimization", "Multi-objective Optimization"]
-    "Scene Understanding":
-        filters: ["Scene Understanding"]
-    "Negative Transfer":
-        filters: ["Negative Transfer", "Domain Adaptation", "Domain Generalization", "Transfer Learning"]
+    "MTL":
+        filters: ["Multitask Optimization", ]
+    "Keypoint Detection":
+        filters: ["Keypoint Detection", "Feature Descriptor"]
+    "Image Matching":
+        filters: ["Image Matching", "Keypoint Matching", 
+                  "Line Segment Detection", "Local Feature Matching"]
+    "NeRF":
+        filters: ["NeRF"]

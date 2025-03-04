@@ -31,6 +31,7 @@ keywords:
     "MOO":
         filters: ["Multiobjective Optimization", "Multi-objective Optimization"]
     "Scene Understanding":
-        filters: ["Scene Understanding"]
-    "Negative Transfer":
-        filters: ["Negative Transfer", "Domain Adaptation", "Domain Generalization", "Transfer Learning"]
+        filters: ["Scene Understanding", "Keypoint Matching", 
+                  "Line Segment Detection", "Local Feature Matching"]
+    "NeRF":
+        filters: ["NeRF"]
