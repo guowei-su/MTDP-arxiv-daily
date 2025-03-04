@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4290,6 +4290,96 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## MTL
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems**|Mingdai Yang et.al.|[2502.19628](http://arxiv.org/abs/2502.19628)|null|
+|**2025-02-25**|**Sharper Concentration Inequalities for Multi-Graph Dependent Variables**|Xiao Shao et.al.|[2502.18167](http://arxiv.org/abs/2502.18167)|null|
+|**2025-02-18**|**Urinary Tract Infection Detection in Digital Remote Monitoring: Strategies for Managing Participant-Specific Prediction Complexity**|Kexin Fan et.al.|[2502.17484](http://arxiv.org/abs/2502.17484)|**[link](https://github.com/Kexin-Fan/Multi-Source-Analysing)**|
+|**2025-02-24**|**Low-rank bias, weight decay, and model merging in neural networks**|Ilja Kuzborskij et.al.|[2502.17340](http://arxiv.org/abs/2502.17340)|null|
+|**2025-02-21**|**R-LoRA: Random Initialization of Multi-Head LoRA for Multi-Task Learning**|Jinda Liu et.al.|[2502.15455](http://arxiv.org/abs/2502.15455)|**[link](https://github.com/jinda-liu/r-lora)**|
+|**2025-02-18**|**Improving Clinical Question Answering with Multi-Task Learning: A Joint Approach for Answer Extraction and Medical Categorization**|Priyaranjan Pattnayak et.al.|[2502.13108](http://arxiv.org/abs/2502.13108)|null|
+|**2025-02-14**|**Heterogeneous Resource Allocation with Multi-task Learning for Wireless Networks**|Nikos A. Mitsiou et.al.|[2502.10027](http://arxiv.org/abs/2502.10027)|null|
+|**2025-02-14**|**Efficient Multitask Learning in Small Language Models Through Upside-Down Reinforcement Learning**|Yu-Chen Lin et.al.|[2502.09854](http://arxiv.org/abs/2502.09854)|null|
+|**2025-02-12**|**Scalable Bilevel Loss Balancing for Multi-Task Learning**|Peiyao Xiao et.al.|[2502.08585](http://arxiv.org/abs/2502.08585)|**[link](https://github.com/optmn-lab/-bilb4mtl)**|
+|**2025-02-11**|**Uniform Kernel Prober**|Soumya Mukherjee et.al.|[2502.07369](http://arxiv.org/abs/2502.07369)|**[link](https://github.com/Soumya-Mukherjee-Statistics/UKP-Arxiv)**|
+
+## Dense Prediction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
+|**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
+|**2025-02-05**|**Globality Strikes Back: Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation**|Jingyun Wang et.al.|[2502.06818](http://arxiv.org/abs/2502.06818)|null|
+|**2025-02-28**|**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**|Krishna Sri Ipsit Mantri et.al.|[2502.06029](http://arxiv.org/abs/2502.06029)|**[link](https://github.com/ipsitmantri/DiTASK)**|
+|**2025-02-07**|**Homeomorphism Prior for False Positive and Negative Problem in Medical Image Dense Contrastive Representation Learning**|Yuting He et.al.|[2502.05282](http://arxiv.org/abs/2502.05282)|null|
+|**2025-02-06**|**Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More**|Feng Wang et.al.|[2502.03738](http://arxiv.org/abs/2502.03738)|null|
+|**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
+|**2025-01-24**|**Rethinking Encoder-Decoder Flow Through Shared Structures**|Frederik Laboyrie et.al.|[2501.14535](http://arxiv.org/abs/2501.14535)|null|
+|**2025-01-13**|**EdgeTAM: On-Device Track Anything Model**|Chong Zhou et.al.|[2501.07256](http://arxiv.org/abs/2501.07256)|null|
+|**2025-01-07**|**BASIC: Semi-supervised Multi-organ Segmentation with Balanced Subclass Regularization and Semantic-conflict Penalty**|Zhenghao Feng et.al.|[2501.03580](http://arxiv.org/abs/2501.03580)|null|
+
+## MTO
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-22**|**Learning to Transfer for Evolutionary Multitasking**|Sheng-Hao Wu et.al.|[2406.14359](http://arxiv.org/abs/2406.14359)|null|
+|**2024-06-12**|**PolySpeech: Exploring Unified Multitask Speech Models for Competitiveness with Single-task Models**|Runyan Yang et.al.|[2406.07801](http://arxiv.org/abs/2406.07801)|null|
+|**2024-01-03**|**Towards Multi-Objective High-Dimensional Feature Selection via Evolutionary Multitasking**|Yinglan Feng et.al.|[2401.01563](http://arxiv.org/abs/2401.01563)|null|
+|**2025-02-23**|**MToP: A MATLAB Optimization Platform for Evolutionary Multitasking**|Yanchi Li et.al.|[2312.08134](http://arxiv.org/abs/2312.08134)|**[link](https://github.com/intlyc/mto-platform)**|
+|**2023-08-24**|**Multitasking Evolutionary Algorithm Based on Adaptive Seed Transfer for Combinatorial Problem**|Haoyuan Lv et.al.|[2308.12647](http://arxiv.org/abs/2308.12647)|null|
+|**2023-10-30**|**FAMO: Fast Adaptive Multitask Optimization**|Bo Liu et.al.|[2306.03792](http://arxiv.org/abs/2306.03792)|**[link](https://github.com/cranial-xix/famo)**|
+|**2023-02-10**|**Language-Aware Multilingual Machine Translation with Self-Supervised Learning**|Haoran Xu et.al.|[2302.05008](http://arxiv.org/abs/2302.05008)|**[link](https://github.com/fe1ixxu/cd_id_mmt)**|
+|**2023-06-28**|**Towards KAB2S: Learning Key Knowledge from Single-Objective Problems to Multi-Objective Problem**|Xu Wendi et.al.|[2206.12906](http://arxiv.org/abs/2206.12906)|null|
+|**2023-06-28**|**ETO Meets Scheduling: Learning Key Knowledge from Single-Objective Problems to Multi-Objective Problem**|Wendi Xu et.al.|[2206.12902](http://arxiv.org/abs/2206.12902)|null|
+|**2022-11-11**|**Evolutionary Multitask Optimization: Fundamental Research Questions, Practices, and Directions for the Future**|Eneko Osaba et.al.|[2111.14463](http://arxiv.org/abs/2111.14463)|null|
+
+## MOO
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-22**|**On approximate Pareto solutions in nonsmooth interval-valued multiobjective optimization with data uncertainty in constraints**|Vu Hong Quan et.al.|[2502.16276](http://arxiv.org/abs/2502.16276)|null|
+|**2025-02-04**|**A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems**|Nguyen Duc Anh et.al.|[2502.02010](http://arxiv.org/abs/2502.02010)|null|
+|**2025-02-23**|**Runtime Analysis of Evolutionary Algorithms for Multiparty Multiobjective Optimization**|Yuetong Sun et.al.|[2501.16336](http://arxiv.org/abs/2501.16336)|null|
+|**2025-02-05**|**An accelerated gradient method with adaptive restart for convex multiobjective optimization problems**|Hao Luo et.al.|[2501.07863](http://arxiv.org/abs/2501.07863)|null|
+|**2024-12-27**|**On second-order optimality conditions for $C^{1,1}$ optimization problems via Lagrangian functions**|Duong Thi Viet An et.al.|[2412.19557](http://arxiv.org/abs/2412.19557)|null|
+|**2024-12-30**|**Accelerated Proximal Gradient Method with Backtracking for Multiobjective Optimization**|Chengzhi Huang et.al.|[2412.14007](http://arxiv.org/abs/2412.14007)|null|
+|**2024-12-05**|**Epoch-based Application of Problem-Aware Operators in a Multiobjective Memetic Algorithm for Portfolio Optimization**|Feijoo Colomine Durán et.al.|[2412.03981](http://arxiv.org/abs/2412.03981)|null|
+|**2024-12-04**|**A Performance Investigation of Multimodal Multiobjective Optimization Algorithms in Solving Two Types of Real-World Problems**|Zhiqiu Chen et.al.|[2412.03013](http://arxiv.org/abs/2412.03013)|null|
+|**2024-11-27**|**Inertial dynamics with vanishing Tikhonov regularization for multobjective optimization**|Radu Ioan Bot et.al.|[2411.18422](http://arxiv.org/abs/2411.18422)|null|
+|**2024-11-14**|**Universal nonmonotone line search method for nonconvex multiobjective optimization problems with convex constraints**|Maria Eduarda Pinheiro et.al.|[2411.09466](http://arxiv.org/abs/2411.09466)|null|
+
+## Scene Understanding
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Vibrotactile information coding strategies for a body-worn vest to aid robot-human collaboration**|Adrian Vecina Tercero et.al.|[2502.21056](http://arxiv.org/abs/2502.21056)|null|
+|**2025-02-27**|**Towards Statistical Factuality Guarantee for Large Vision-Language Models**|Zhuohang Li et.al.|[2502.20560](http://arxiv.org/abs/2502.20560)|null|
+|**2025-02-26**|**Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator**|Xiankang He et.al.|[2502.19204](http://arxiv.org/abs/2502.19204)|**[link](https://github.com/Westlake-AGI-Lab/Distill-Any-Depth)**|
+|**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
+|**2025-02-24**|**AAD-LLM: Neural Attention-Driven Auditory Scene Understanding**|Xilin Jiang et.al.|[2502.16794](http://arxiv.org/abs/2502.16794)|null|
+|**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652](http://arxiv.org/abs/2502.16652)|null|
+|**2025-02-21**|**Hierarchical Context Transformer for Multi-level Semantic Scene Understanding**|Luoying Hao et.al.|[2502.15184](http://arxiv.org/abs/2502.15184)|**[link](https://github.com/aurora-hao/hct)**|
+|**2025-02-20**|**CrossOver: 3D Scene Cross-Modal Alignment**|Sayan Deb Sarkar et.al.|[2502.15011](http://arxiv.org/abs/2502.15011)|**[link](https://github.com/GradientSpaces/CrossOver)**|
+|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
+|**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
+
+## Negative Transfer
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**RuCCoD: Towards Automated ICD Coding in Russian**|Aleksandr Nesterov et.al.|[2502.21263](http://arxiv.org/abs/2502.21263)|null|
+|**2025-02-28**|**Are foundation models useful feature extractors for electroencephalography analysis?**|Özgün Turgut et.al.|[2502.21086](http://arxiv.org/abs/2502.21086)|null|
+|**2025-02-28**|**Restricted type estimates on the Bergman projection of some singular domains**|Debraj Chakrabarti et.al.|[2502.21071](http://arxiv.org/abs/2502.21071)|null|
+|**2025-02-28**|**Incorporating Long-Range Interactions via the Multipole Expansion into Ground and Excited-State Molecular Simulations**|Rhyan Barrett et.al.|[2502.21045](http://arxiv.org/abs/2502.21045)|null|
+|**2025-02-28**|**When Unsupervised Domain Adaptation meets One-class Anomaly Detection: Addressing the Two-fold Unsupervised Curse by Leveraging Anomaly Scarcity**|Nesryne Mejri et.al.|[2502.21022](http://arxiv.org/abs/2502.21022)|null|
+|**2025-02-28**|**Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision**|Dawei Zhu et.al.|[2502.20790](http://arxiv.org/abs/2502.20790)|null|
+|**2025-02-27**|**On the Role of Individual Differences in Current Approaches to Computational Image Aesthetics**|Li-Wei Chen et.al.|[2502.20518](http://arxiv.org/abs/2502.20518)|null|
+|**2025-02-27**|**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**|Pierre Vuillecard et.al.|[2502.20249](http://arxiv.org/abs/2502.20249)|null|
+|**2025-02-27**|**Deep Convolutional Neural Networks for Palm Fruit Maturity Classification**|Mingqiang Han et.al.|[2502.20223](http://arxiv.org/abs/2502.20223)|null|
+|**2025-02-27**|**An Amplitude-Encoding-Based Classical-Quantum Transfer Learning framework: Outperforming Classical Methods in Image Recognition**|Shouwei Hu et.al.|[2502.20184](http://arxiv.org/abs/2502.20184)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
