@@ -25,7 +25,7 @@ keywords:
     "MTL": 
         filters: ["MTL", "Multitask Learning", "Multi-task Learning"]
     "Dense Prediction":
-        filters: ["Dense Prediction", "Multi-task Dense Prediction"]
+        filters: ["Dense Prediction", "["Dense Prediction"]
     "MTO":
         filters: ["Multitask Optimization", "Multi-task Optimization"]
     "MOO":
