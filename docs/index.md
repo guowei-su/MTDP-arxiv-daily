@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
@@ -34,6 +34,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Label-Efficient LiDAR Panoptic Segmentation**|Ahmet Selim Çanakçı et.al.|[2503.02372](http://arxiv.org/abs/2503.02372)|null|
+|**2025-03-04**|**SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images**|Gargi Panda et.al.|[2503.02270](http://arxiv.org/abs/2503.02270)|null|
+|**2025-03-03**|**vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**|Ali Tourani et.al.|[2503.01783](http://arxiv.org/abs/2503.01783)|null|
+|**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646](http://arxiv.org/abs/2503.01646)|null|
+|**2025-03-03**|**Spatial Transcriptomics Analysis of Spatially Dense Gene Expression Prediction**|Ruikun Zhang et.al.|[2503.01347](http://arxiv.org/abs/2503.01347)|null|
+|**2025-03-03**|**Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond**|Guanyao Wu et.al.|[2503.01210](http://arxiv.org/abs/2503.01210)|null|
+|**2025-03-01**|**Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning**|Hanxun Yu et.al.|[2503.00513](http://arxiv.org/abs/2503.00513)|**[link](https://github.com/hanxunyu/inst3d-lmm)**|
+|**2025-03-04**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397](http://arxiv.org/abs/2503.00397)|null|
 |**2025-02-28**|**Vibrotactile information coding strategies for a body-worn vest to aid robot-human collaboration**|Adrian Vecina Tercero et.al.|[2502.21056](http://arxiv.org/abs/2502.21056)|null|
 |**2025-02-27**|**Towards Statistical Factuality Guarantee for Large Vision-Language Models**|Zhuohang Li et.al.|[2502.20560](http://arxiv.org/abs/2502.20560)|null|
 |**2025-02-26**|**Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator**|Xiankang He et.al.|[2502.19204](http://arxiv.org/abs/2502.19204)|**[link](https://github.com/Westlake-AGI-Lab/Distill-Any-Depth)**|
@@ -47,7 +55,7 @@ layout: default
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
 |**2025-02-19**|**Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning**|Rui Zhao et.al.|[2502.14917](http://arxiv.org/abs/2502.14917)|null|
 |**2025-02-16**|**Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review**|Ufaq Khan et.al.|[2502.14886](http://arxiv.org/abs/2502.14886)|null|
-|**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
+|**2025-03-04**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
 |**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677](http://arxiv.org/abs/2502.12677)|null|
 |**2025-03-03**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|
@@ -84,6 +92,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-01**|**Solution of Uncertain Multiobjective Optimization Problems by Using Nonlinear Conjugate Gradient Method**|Shubham Kumar et.al.|[2503.00311](http://arxiv.org/abs/2503.00311)|null|
 |**2025-02-22**|**On approximate Pareto solutions in nonsmooth interval-valued multiobjective optimization with data uncertainty in constraints**|Vu Hong Quan et.al.|[2502.16276](http://arxiv.org/abs/2502.16276)|null|
 |**2025-02-04**|**A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems**|Nguyen Duc Anh et.al.|[2502.02010](http://arxiv.org/abs/2502.02010)|null|
 |**2025-02-23**|**Runtime Analysis of Evolutionary Algorithms for Multiparty Multiobjective Optimization**|Yuetong Sun et.al.|[2501.16336](http://arxiv.org/abs/2501.16336)|null|
@@ -109,6 +118,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Remote Sensing Image Classification Using Convolutional Neural Network (CNN) and Transfer Learning Techniques**|Mustafa Majeed Abd Zaid et.al.|[2503.02510](http://arxiv.org/abs/2503.02510)|null|
+|**2025-03-04**|**Robust Multi-Source Domain Adaptation under Label Shift**|Congbin Xu et.al.|[2503.02506](http://arxiv.org/abs/2503.02506)|null|
+|**2025-03-04**|**X2CT-CLIP: Enable Multi-Abnormality Detection in Computed Tomography from Chest Radiography via Tri-Modal Contrastive Learning**|Jianzhong You et.al.|[2503.02162](http://arxiv.org/abs/2503.02162)|null|
+|**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
+|**2025-03-03**|**Robustness to Geographic Distribution Shift using Location Encoders**|Ruth Crasto et.al.|[2503.02036](http://arxiv.org/abs/2503.02036)|null|
+|**2025-03-03**|**A General Neural Network Potential for Energetic Materials with C, H, N, and O elements**|Mingjie Wen et.al.|[2503.01932](http://arxiv.org/abs/2503.01932)|**[link](https://github.com/mingjiewen/general-nnp-model-for-c-h-n-o-energetic-materials)**|
+|**2025-03-03**|**Do GFlowNets Transfer? Case Study on the Game of 24/42**|Adesh Gupta et.al.|[2503.01819](http://arxiv.org/abs/2503.01819)|null|
+|**2025-03-03**|**Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution**|Kun Li et.al.|[2503.01695](http://arxiv.org/abs/2503.01695)|null|
+|**2025-03-03**|**An Efficient Approach to Detecting Lung Nodules Using Swin Transformer**|Saeed Shakuri et.al.|[2503.01592](http://arxiv.org/abs/2503.01592)|null|
+|**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
+|**2025-03-03**|**Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding**|Yiming Wang et.al.|[2503.01422](http://arxiv.org/abs/2503.01422)|null|
+|**2025-03-03**|**A Zero-Shot Learning Approach for Ephemeral Gully Detection from Remote Sensing using Vision Language Models**|Seyed Mohamad Ali Tousi et.al.|[2503.01169](http://arxiv.org/abs/2503.01169)|null|
+|**2025-03-03**|**Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting**|Xiaobin Hong et.al.|[2503.01157](http://arxiv.org/abs/2503.01157)|null|
+|**2025-03-02**|**PINN-MG: A physics-informed neural network for mesh generation**|Min Wang et.al.|[2503.00814](http://arxiv.org/abs/2503.00814)|null|
+|**2025-03-02**|**MFM-DA: Instance-Aware Adaptor and Hierarchical Alignment for Efficient Domain Adaptation in Medical Foundation Models**|Jia-Xuan Jiang et.al.|[2503.00802](http://arxiv.org/abs/2503.00802)|null|
+|**2025-03-01**|**Shaping Laser Pulses with Reinforcement Learning**|Francesco Capuano et.al.|[2503.00499](http://arxiv.org/abs/2503.00499)|null|
+|**2025-03-01**|**Rapid morphology characterization of two-dimensional TMDs and lateral heterostructures based on deep learning**|Junqi He et.al.|[2503.00470](http://arxiv.org/abs/2503.00470)|null|
+|**2025-03-01**|**DADM: Dual Alignment of Domain and Modality for Face Anti-spoofing**|Jingyi Yang et.al.|[2503.00429](http://arxiv.org/abs/2503.00429)|null|
+|**2025-03-01**|**Towards Understanding the Benefit of Multitask Representation Learning in Decision Process**|Rui Lu et.al.|[2503.00345](http://arxiv.org/abs/2503.00345)|null|
+|**2025-03-01**|**A Unified Framework for Heterogeneous Semi-supervised Learning**|Marzi Heidari et.al.|[2503.00286](http://arxiv.org/abs/2503.00286)|null|
 |**2025-02-28**|**RuCCoD: Towards Automated ICD Coding in Russian**|Aleksandr Nesterov et.al.|[2502.21263](http://arxiv.org/abs/2502.21263)|null|
 |**2025-02-28**|**Are foundation models useful feature extractors for electroencephalography analysis?**|Özgün Turgut et.al.|[2502.21086](http://arxiv.org/abs/2502.21086)|null|
 |**2025-02-28**|**Restricted type estimates on the Bergman projection of some singular domains**|Debraj Chakrabarti et.al.|[2502.21071](http://arxiv.org/abs/2502.21071)|null|
