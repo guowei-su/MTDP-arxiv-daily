@@ -2,14 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-07**|**Statistical Deficiency for Task Inclusion Estimation**|Loïc Fosse et.al.|[2503.05491](http://arxiv.org/abs/2503.05491)|null|
+|**2025-03-11**|**Injecting Imbalance Sensitivity for Multi-Task Learning**|Zhipeng Zhou et.al.|[2503.08006](http://arxiv.org/abs/2503.08006)|null|
+|**2025-03-08**|**Minion Gated Recurrent Unit for Continual Learning**|Abdullah M. Zyarah et.al.|[2503.06175](http://arxiv.org/abs/2503.06175)|null|
+|**2025-03-13**|**Statistical Deficiency for Task Inclusion Estimation**|Loïc Fosse et.al.|[2503.05491](http://arxiv.org/abs/2503.05491)|null|
 |**2025-03-06**|**Continual Optimization with Symmetry Teleportation for Multi-Task Learning**|Zhipeng Zhou et.al.|[2503.04046](http://arxiv.org/abs/2503.04046)|null|
 |**2025-03-05**|**Gradient Deconfliction via Orthogonal Projections onto Subspaces For Multi-task Learning**|Shijie Zhu et.al.|[2503.03438](http://arxiv.org/abs/2503.03438)|null|
 |**2025-02-26**|**PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems**|Mingdai Yang et.al.|[2502.19628](http://arxiv.org/abs/2502.19628)|null|
@@ -37,6 +39,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210](http://arxiv.org/abs/2503.10210)|null|
+|**2025-03-13**|**TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness**|Mu Chen et.al.|[2503.09941](http://arxiv.org/abs/2503.09941)|null|
+|**2025-03-12**|**Object-Aware DINO (Oh-A-Dino): Enhancing Self-Supervised Representations for Multi-Object Instance Retrieval**|Stefan Sylvius Wagner et.al.|[2503.09867](http://arxiv.org/abs/2503.09867)|null|
+|**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344](http://arxiv.org/abs/2503.09344)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
+|**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474](http://arxiv.org/abs/2503.08474)|null|
+|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471](http://arxiv.org/abs/2503.08471)|null|
+|**2025-03-11**|**DIV-FF: Dynamic Image-Video Feature Fields For Environment Understanding in Egocentric Videos**|Lorenzo Mur-Labadia et.al.|[2503.08344](http://arxiv.org/abs/2503.08344)|null|
+|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
+|**2025-03-11**|**General-Purpose Aerial Intelligent Agents Empowered by Large Language Models**|Ji Zhao et.al.|[2503.08302](http://arxiv.org/abs/2503.08302)|null|
+|**2025-03-11**|**Scale-Aware Pre-Training for Human-Centric Visual Perception: Enabling Lightweight and Generalizable Models**|Xuanhan Wang et.al.|[2503.08201](http://arxiv.org/abs/2503.08201)|null|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|**[link](https://github.com/xr-lee/neural-symbolic)**|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|
+|**2025-03-10**|**A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning**|Xin Wen et.al.|[2503.06960](http://arxiv.org/abs/2503.06960)|**[link](https://github.com/cvmi-lab/slotmim)**|
+|**2025-03-10**|**LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs**|Hanyu Zhou et.al.|[2503.06934](http://arxiv.org/abs/2503.06934)|null|
+|**2025-03-10**|**Task Vector Quantization for Memory-Efficient Model Merging**|Youngeun Kim et.al.|[2503.06921](http://arxiv.org/abs/2503.06921)|null|
+|**2025-03-08**|**SplatTalk: 3D VQA with Gaussian Splatting**|Anh Thai et.al.|[2503.06271](http://arxiv.org/abs/2503.06271)|null|
+|**2025-03-08**|**Segment Anything, Even Occluded**|Wei-En Tai et.al.|[2503.06261](http://arxiv.org/abs/2503.06261)|null|
 |**2025-03-07**|**HexPlane Representation for 3D Semantic Scene Understanding**|Zeren Chen et.al.|[2503.05127](http://arxiv.org/abs/2503.05127)|null|
 |**2025-03-06**|**Extracting Symbolic Sequences from Visual Representations via Self-Supervised Learning**|Victor Sebastian Martinez Pozos et.al.|[2503.04900](http://arxiv.org/abs/2503.04900)|null|
 |**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
@@ -105,6 +127,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-09**|**Robust Optimization Approach for Solving Uncertain Multiobjective Optimization Problems Using the Projected Gradient Method**|Shubham Kumar et.al.|[2503.06509](http://arxiv.org/abs/2503.06509)|null|
+|**2025-03-09**|**Global Convergence and Rate Analysis of the Steepest Descent Method for Uncertain Multiobjective Optimization via a Robust Optimization Approach**|Shubham Kumar et.al.|[2503.06476](http://arxiv.org/abs/2503.06476)|null|
 |**2025-03-01**|**Solution of Uncertain Multiobjective Optimization Problems by Using Nonlinear Conjugate Gradient Method**|Shubham Kumar et.al.|[2503.00311](http://arxiv.org/abs/2503.00311)|null|
 |**2025-02-22**|**On approximate Pareto solutions in nonsmooth interval-valued multiobjective optimization with data uncertainty in constraints**|Vu Hong Quan et.al.|[2502.16276](http://arxiv.org/abs/2502.16276)|null|
 |**2025-02-04**|**A Steepest Gradient Method with Nonmonotone Adaptive Step-sizes for the Nonconvex Minimax and Multi-Objective Optimization Problems**|Nguyen Duc Anh et.al.|[2502.02010](http://arxiv.org/abs/2502.02010)|null|
@@ -131,6 +155,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory**|Robin Schmucker et.al.|[2503.10533](http://arxiv.org/abs/2503.10533)|null|
+|**2025-03-13**|**Handling Domain Shifts for Anomalous Sound Detection: A Review of DCASE-Related Work**|Kevin Wilkinghoff et.al.|[2503.10435](http://arxiv.org/abs/2503.10435)|null|
+|**2025-03-13**|**A Hybrid Architecture with Efficient Fine Tuning for Abstractive Patent Document Summarization**|Nevidu Jayatilleke et.al.|[2503.10354](http://arxiv.org/abs/2503.10354)|null|
+|**2025-03-13**|**PyGDA: A Python Library for Graph Domain Adaptation**|Zhen Zhang et.al.|[2503.10284](http://arxiv.org/abs/2503.10284)|null|
+|**2025-03-13**|**SOLA-GCL: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning**|Tianhao Peng et.al.|[2503.10100](http://arxiv.org/abs/2503.10100)|null|
+|**2025-03-13**|**One-Shot Federated Unsupervised Domain Adaptation with Scaled Entropy Attention and Multi-Source Smoothed Pseudo Labeling**|Ali Abedi et.al.|[2503.10020](http://arxiv.org/abs/2503.10020)|null|
+|**2025-03-13**|**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2503.09968](http://arxiv.org/abs/2503.09968)|null|
+|**2025-03-13**|**PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation**|Sen Wang et.al.|[2503.09938](http://arxiv.org/abs/2503.09938)|null|
+|**2025-03-12**|**Towards Hardware Supported Domain Generalization in DNN-Based Edge Computing Devices for Health Monitoring**|Johnson Loh et.al.|[2503.09661](http://arxiv.org/abs/2503.09661)|null|
+|**2025-03-12**|**Domain Adaptation for Japanese Sentence Embeddings with Contrastive Learning based on Synthetic Sentence Generation**|Zihao Chen et.al.|[2503.09094](http://arxiv.org/abs/2503.09094)|null|
+|**2025-03-12**|**Mono2D: A Trainable Monogenic Layer for Robust Knee Cartilage Segmentation on Out-of-Distribution 2D Ultrasound Data**|Alvin Kimbowa et.al.|[2503.09050](http://arxiv.org/abs/2503.09050)|null|
+|**2025-03-11**|**Are ECGs enough? Deep learning classification of cardiac anomalies using only electrocardiograms**|Joao D. S. Marques et.al.|[2503.08960](http://arxiv.org/abs/2503.08960)|**[link](https://github.com/joaodsmarques/are-ecgs-enough-deep-learning-classifiers)**|
+|**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
+|**2025-03-11**|**Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation**|Xiwen Chen et.al.|[2503.08906](http://arxiv.org/abs/2503.08906)|**[link](https://github.com/chongqingnosubway/prompt-ot)**|
+|**2025-03-11**|**Source-free domain adaptation based on label reliability for cross-domain bearing fault diagnosis**|Wenyi Wu et.al.|[2503.08749](http://arxiv.org/abs/2503.08749)|**[link](https://github.com/bdlab405/sdalr)**|
+|**2025-03-11**|**GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection**|Dušan Malić et.al.|[2503.08639](http://arxiv.org/abs/2503.08639)|null|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**Towards species' classification of the \textit{Anastrepha pseudoparallela} group**|Gabriel R. Palma et.al.|[2503.08598](http://arxiv.org/abs/2503.08598)|null|
+|**2025-03-11**|**MMRL: Multi-Modal Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2503.08497](http://arxiv.org/abs/2503.08497)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-03-11**|**TransPCA for Large-dimensional Factor Analysis with Weak Factors: Power Enhancement via Knowledge Transfer**|Yong He et.al.|[2503.08397](http://arxiv.org/abs/2503.08397)|null|
 |**2025-03-07**|**CACTUS: An Open Dataset and Framework for Automated Cardiac Assessment and Classification of Ultrasound Images Using Deep Transfer Learning**|Hanae Elmekki et.al.|[2503.05604](http://arxiv.org/abs/2503.05604)|null|
 |**2025-03-07**|**opXRD: Open Experimental Powder X-ray Diffraction Database**|Daniel Hollarek et.al.|[2503.05577](http://arxiv.org/abs/2503.05577)|null|
 |**2025-03-07**|**Statistical Deficiency for Task Inclusion Estimation**|Loïc Fosse et.al.|[2503.05491](http://arxiv.org/abs/2503.05491)|null|
