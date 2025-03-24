@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.21
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
@@ -205,7 +205,7 @@ layout: default
 |**2025-03-13**|**Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2503.09968](http://arxiv.org/abs/2503.09968)|null|
 |**2025-03-13**|**PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation**|Sen Wang et.al.|[2503.09938](http://arxiv.org/abs/2503.09938)|null|
 |**2025-03-12**|**Towards Hardware Supported Domain Generalization in DNN-Based Edge Computing Devices for Health Monitoring**|Johnson Loh et.al.|[2503.09661](http://arxiv.org/abs/2503.09661)|null|
-|**2025-03-12**|**Domain Adaptation for Japanese Sentence Embeddings with Contrastive Learning based on Synthetic Sentence Generation**|Zihao Chen et.al.|[2503.09094](http://arxiv.org/abs/2503.09094)|null|
+|**2025-03-12**|**Domain Adaptation for Japanese Sentence Embeddings with Contrastive Learning based on Synthetic Sentence Generation**|Zihao Chen et.al.|[2503.09094](http://arxiv.org/abs/2503.09094)|**[link](https://github.com/ccilab-doshisha/sdjc)**|
 |**2025-03-12**|**Mono2D: A Trainable Monogenic Layer for Robust Knee Cartilage Segmentation on Out-of-Distribution 2D Ultrasound Data**|Alvin Kimbowa et.al.|[2503.09050](http://arxiv.org/abs/2503.09050)|null|
 |**2025-03-11**|**Are ECGs enough? Deep learning classification of cardiac anomalies using only electrocardiograms**|Joao D. S. Marques et.al.|[2503.08960](http://arxiv.org/abs/2503.08960)|**[link](https://github.com/joaodsmarques/are-ecgs-enough-deep-learning-classifiers)**|
 |**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
