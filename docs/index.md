@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-23**|**PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition**|Dominique Nshimyimana et.al.|[2503.17978](http://arxiv.org/abs/2503.17978)|null|
 |**2025-03-17**|**Bayesian Kernel Regression for Functional Data**|Minoru Kusaba et.al.|[2503.13676](http://arxiv.org/abs/2503.13676)|null|
-|**2025-03-16**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|null|
+|**2025-03-25**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|**[link](https://github.com/hmarkc/FW-Merging)**|
 |**2025-03-11**|**Injecting Imbalance Sensitivity for Multi-Task Learning**|Zhipeng Zhou et.al.|[2503.08006](http://arxiv.org/abs/2503.08006)|null|
 |**2025-03-08**|**Minion Gated Recurrent Unit for Continual Learning**|Abdullah M. Zyarah et.al.|[2503.06175](http://arxiv.org/abs/2503.06175)|null|
 |**2025-03-13**|**Statistical Deficiency for Task Inclusion Estimation**|Loïc Fosse et.al.|[2503.05491](http://arxiv.org/abs/2503.05491)|null|
@@ -42,12 +42,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
+|**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770](http://arxiv.org/abs/2503.21770)|null|
+|**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
+|**2025-03-26**|**DINeMo: Learning Neural Mesh Models with no 3D Annotations**|Weijie Guo et.al.|[2503.20220](http://arxiv.org/abs/2503.20220)|null|
+|**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|**[link](https://github.com/xiangxu-0103/superflow)**|
+|**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
+|**2025-03-26**|**COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**|Jiaxin Zhang et.al.|[2503.19443](http://arxiv.org/abs/2503.19443)|**[link](https://github.com/zestfuljx/cob-gs)**|
+|**2025-03-25**|**Divide-and-Conquer: Dual-Hierarchical Optimization for Semantic 4D Gaussian Spatting**|Zhiying Yan et.al.|[2503.19332](http://arxiv.org/abs/2503.19332)|null|
+|**2025-03-25**|**BIMII-Net: Brain-Inspired Multi-Iterative Interactive Network for RGB-T Road Scene Semantic Segmentation**|Hanshuo Qiu et.al.|[2503.19303](http://arxiv.org/abs/2503.19303)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[2503.18730](http://arxiv.org/abs/2503.18730)|null|
 |**2025-03-23**|**MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation**|Jiaxin Huang et.al.|[2503.18135](http://arxiv.org/abs/2503.18135)|null|
 |**2025-03-23**|**PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding**|Hongjia Zhai et.al.|[2503.18107](http://arxiv.org/abs/2503.18107)|null|
 |**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
-|**2025-03-23**|**PolarFree: Polarization-based Reflection-free Imaging**|Mingde Yao et.al.|[2503.18055](http://arxiv.org/abs/2503.18055)|null|
-|**2025-03-23**|**SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining**|Yue Li et.al.|[2503.18052](http://arxiv.org/abs/2503.18052)|null|
+|**2025-03-23**|**PolarFree: Polarization-based Reflection-free Imaging**|Mingde Yao et.al.|[2503.18055](http://arxiv.org/abs/2503.18055)|**[link](https://github.com/mdyao/polarfree)**|
+|**2025-03-23**|**SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining**|Yue Li et.al.|[2503.18052](http://arxiv.org/abs/2503.18052)|**[link](https://github.com/unique1i/scenesplat)**|
 |**2025-03-23**|**Geometric Constrained Non-Line-of-Sight Imaging**|Xueying Liu et.al.|[2503.17992](http://arxiv.org/abs/2503.17992)|null|
 |**2025-03-22**|**ClaraVid: A Holistic Scene Reconstruction Benchmark From Aerial Perspective With Delentropy-Based Complexity Profiling**|Radu Beche et.al.|[2503.17856](http://arxiv.org/abs/2503.17856)|null|
 |**2025-03-21**|**Should we pre-train a decoder in contrastive learning for dense prediction tasks?**|Sébastien Quetin et.al.|[2503.17526](http://arxiv.org/abs/2503.17526)|null|
@@ -166,6 +176,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**A Multi-Objective Capacity-Constrained Optimization of Corn Planting Scheduling**|Mingshi Cui et.al.|[2503.20517](http://arxiv.org/abs/2503.20517)|null|
+|**2025-03-27**|**Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization**|Zhenyu Liang et.al.|[2503.20286](http://arxiv.org/abs/2503.20286)|**[link](https://github.com/emi-group/evomo)**|
 |**2025-03-17**|**Smoothing Accelerated Proximal Gradient Method with Backtracking for Nonsmooth Multiobjective Optimization**|Huang Chengzhi et.al.|[2503.12915](http://arxiv.org/abs/2503.12915)|null|
 |**2025-03-09**|**Robust Optimization Approach for Solving Uncertain Multiobjective Optimization Problems Using the Projected Gradient Method**|Shubham Kumar et.al.|[2503.06509](http://arxiv.org/abs/2503.06509)|null|
 |**2025-03-09**|**Global Convergence and Rate Analysis of the Steepest Descent Method for Uncertain Multiobjective Optimization via a Robust Optimization Approach**|Shubham Kumar et.al.|[2503.06476](http://arxiv.org/abs/2503.06476)|null|
@@ -195,6 +207,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
+|**2025-03-27**|**Low-Resource Transliteration for Roman-Urdu and Urdu Using Transformer-Based Models**|Umer Butt et.al.|[2503.21530](http://arxiv.org/abs/2503.21530)|null|
+|**2025-03-27**|**Exploring the flavor structure of leptons via diffusion models**|Satsuki Nishimura et.al.|[2503.21432](http://arxiv.org/abs/2503.21432)|null|
+|**2025-03-27**|**HybridoNet-Adapt: A Domain-Adapted Framework for Accurate Lithium-Ion Battery RUL Prediction**|Khoa Tran et.al.|[2503.21392](http://arxiv.org/abs/2503.21392)|null|
+|**2025-03-27**|**Residual Learning Inspired Crossover Operator and Strategy Enhancements for Evolutionary Multitasking**|Ruilin Wang et.al.|[2503.21347](http://arxiv.org/abs/2503.21347)|null|
+|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105](http://arxiv.org/abs/2503.21105)|**[link](https://github.com/snudatalab/AugWard)**|
+|**2025-03-27**|**Integrate Meta-analysis into Specific Study (InMASS) for Estimating Conditional Average Treatment Effect**|Keisuke Hanada et.al.|[2503.21091](http://arxiv.org/abs/2503.21091)|null|
+|**2025-03-26**|**World Model Agents with Change-Based Intrinsic Motivation**|Jeremias Ferrao et.al.|[2503.21047](http://arxiv.org/abs/2503.21047)|null|
+|**2025-03-26**|**Feature Modulation for Semi-Supervised Domain Generalization without Domain Labels**|Venuri Amarasinghe et.al.|[2503.20897](http://arxiv.org/abs/2503.20897)|null|
+|**2025-03-26**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|null|
+|**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653](http://arxiv.org/abs/2503.20653)|null|
+|**2025-03-26**|**A Deep Learning Pipeline for Large Earthquake Analysis using High-Rate Global Navigation Satellite System Data**|Claudia Quinteros-Cartaya et.al.|[2503.20584](http://arxiv.org/abs/2503.20584)|null|
+|**2025-03-26**|**Low-resource Information Extraction with the European Clinical Case Corpus**|Soumitra Ghosh et.al.|[2503.20568](http://arxiv.org/abs/2503.20568)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|null|
+|**2025-03-25**|**Domain Adaptation Framework for Turning Movement Count Estimation with Limited Data**|Xiaobo Ma et.al.|[2503.20113](http://arxiv.org/abs/2503.20113)|null|
+|**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
+|**2025-03-25**|**Untangling the Influence of Typology, Data and Model Architecture on Ranking Transfer Languages for Cross-Lingual POS Tagging**|Enora Rice et.al.|[2503.19979](http://arxiv.org/abs/2503.19979)|null|
+|**2025-03-25**|**EventFly: Event Camera Perception from Ground to the Sky**|Lingdong Kong et.al.|[2503.19916](http://arxiv.org/abs/2503.19916)|null|
+|**2025-03-25**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693](http://arxiv.org/abs/2503.19693)|null|
 |**2025-03-24**|**Convolutional neural network approach to ion Coulomb crystal image analysis**|James Allsopp et.al.|[2503.18846](http://arxiv.org/abs/2503.18846)|null|
 |**2025-03-24**|**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**|Luyao Tang et.al.|[2503.18695](http://arxiv.org/abs/2503.18695)|null|
 |**2025-03-24**|**ClinText-SP and RigoBERTa Clinical: a new set of open resources for Spanish Clinical NLP**|Guillem García Subies et.al.|[2503.18594](http://arxiv.org/abs/2503.18594)|null|
