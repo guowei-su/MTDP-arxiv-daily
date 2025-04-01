@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
@@ -42,11 +42,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610](http://arxiv.org/abs/2503.22610)|null|
+|**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588](http://arxiv.org/abs/2503.22588)|null|
+|**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
+|**2025-03-28**|**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**|Rulin Zhou et.al.|[2503.22394](http://arxiv.org/abs/2503.22394)|null|
+|**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
+|**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087](http://arxiv.org/abs/2503.22087)|null|
 |**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770](http://arxiv.org/abs/2503.21770)|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
 |**2025-03-26**|**DINeMo: Learning Neural Mesh Models with no 3D Annotations**|Weijie Guo et.al.|[2503.20220](http://arxiv.org/abs/2503.20220)|null|
-|**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
+|**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|**[link](https://github.com/eceo-epfl/coralscapesScripts)**|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|**[link](https://github.com/xiangxu-0103/superflow)**|
 |**2025-03-25**|**OpenLex3D: A New Evaluation Benchmark for Open-Vocabulary 3D Scene Representations**|Christina Kassab et.al.|[2503.19764](http://arxiv.org/abs/2503.19764)|null|
 |**2025-03-26**|**COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**|Jiaxin Zhang et.al.|[2503.19443](http://arxiv.org/abs/2503.19443)|**[link](https://github.com/zestfuljx/cob-gs)**|
@@ -207,16 +213,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647](http://arxiv.org/abs/2503.22647)|null|
+|**2025-03-28**|**Accelerated VQE: Parameter Recycling for Similar Recurring Problem Instances**|Tobias Rohe et.al.|[2503.22590](http://arxiv.org/abs/2503.22590)|null|
+|**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
+|**2025-03-28**|**Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets**|Martin Kišš et.al.|[2503.22513](http://arxiv.org/abs/2503.22513)|null|
+|**2025-03-28**|**On-site estimation of battery electrochemical parameters via transfer learning based physics-informed neural network approach**|Josu Yeregui et.al.|[2503.22396](http://arxiv.org/abs/2503.22396)|null|
+|**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
+|**2025-03-28**|**Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation**|Minho Park et.al.|[2503.22172](http://arxiv.org/abs/2503.22172)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-27**|**ReCoM: Realistic Co-Speech Motion Generation with Recurrent Embedded Transformer**|Yong Xie et.al.|[2503.21847](http://arxiv.org/abs/2503.21847)|null|
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**Low-Resource Transliteration for Roman-Urdu and Urdu Using Transformer-Based Models**|Umer Butt et.al.|[2503.21530](http://arxiv.org/abs/2503.21530)|null|
 |**2025-03-27**|**Exploring the flavor structure of leptons via diffusion models**|Satsuki Nishimura et.al.|[2503.21432](http://arxiv.org/abs/2503.21432)|null|
 |**2025-03-27**|**HybridoNet-Adapt: A Domain-Adapted Framework for Accurate Lithium-Ion Battery RUL Prediction**|Khoa Tran et.al.|[2503.21392](http://arxiv.org/abs/2503.21392)|null|
 |**2025-03-27**|**Residual Learning Inspired Crossover Operator and Strategy Enhancements for Evolutionary Multitasking**|Ruilin Wang et.al.|[2503.21347](http://arxiv.org/abs/2503.21347)|null|
 |**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105](http://arxiv.org/abs/2503.21105)|**[link](https://github.com/snudatalab/AugWard)**|
-|**2025-03-27**|**Integrate Meta-analysis into Specific Study (InMASS) for Estimating Conditional Average Treatment Effect**|Keisuke Hanada et.al.|[2503.21091](http://arxiv.org/abs/2503.21091)|null|
-|**2025-03-26**|**World Model Agents with Change-Based Intrinsic Motivation**|Jeremias Ferrao et.al.|[2503.21047](http://arxiv.org/abs/2503.21047)|null|
+|**2025-03-27**|**Integrate Meta-analysis into Specific Study (InMASS) for Estimating Conditional Average Treatment Effect**|Keisuke Hanada et.al.|[2503.21091](http://arxiv.org/abs/2503.21091)|**[link](https://github.com/keisuke-hanada/InMASS)**|
+|**2025-03-26**|**World Model Agents with Change-Based Intrinsic Motivation**|Jeremias Ferrao et.al.|[2503.21047](http://arxiv.org/abs/2503.21047)|**[link](https://github.com/Jazhyc/world-model-policy-transfer)**|
 |**2025-03-26**|**Feature Modulation for Semi-Supervised Domain Generalization without Domain Labels**|Venuri Amarasinghe et.al.|[2503.20897](http://arxiv.org/abs/2503.20897)|null|
-|**2025-03-26**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|null|
+|**2025-03-29**|**Disentangled Source-Free Personalization for Facial Expression Recognition with Neutral Target Data**|Masoumeh Sharafi et.al.|[2503.20771](http://arxiv.org/abs/2503.20771)|**[link](https://github.com/MasoumehSharafi/DSFDA-for-Pain-Assessment)**|
 |**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653](http://arxiv.org/abs/2503.20653)|null|
 |**2025-03-26**|**A Deep Learning Pipeline for Large Earthquake Analysis using High-Rate Global Navigation Satellite System Data**|Claudia Quinteros-Cartaya et.al.|[2503.20584](http://arxiv.org/abs/2503.20584)|null|
 |**2025-03-26**|**Low-resource Information Extraction with the European Clinical Case Corpus**|Soumitra Ghosh et.al.|[2503.20568](http://arxiv.org/abs/2503.20568)|null|
