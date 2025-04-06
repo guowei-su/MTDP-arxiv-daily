@@ -1,4 +1,4 @@
-## Updated on 2025.04.01
+## Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Exploring Reliable PPG Authentication on Smartwatches in Daily Scenarios**|Jiankai Tang et.al.|[2503.23930](http://arxiv.org/abs/2503.23930)|null|
 |**2025-03-23**|**PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition**|Dominique Nshimyimana et.al.|[2503.17978](http://arxiv.org/abs/2503.17978)|null|
 |**2025-03-17**|**Bayesian Kernel Regression for Functional Data**|Minoru Kusaba et.al.|[2503.13676](http://arxiv.org/abs/2503.13676)|null|
 |**2025-03-25**|**FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization**|Hao Mark Chen et.al.|[2503.12649](http://arxiv.org/abs/2503.12649)|**[link](https://github.com/hmarkc/FW-Merging)**|
@@ -45,12 +46,31 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
+|**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
+|**2025-04-03**|**Refining CLIP's Spatial Awareness: A Visual-Centric Perspective**|Congpei Qiu et.al.|[2504.02328](http://arxiv.org/abs/2504.02328)|null|
+|**2025-04-02**|**Scene-Centric Unsupervised Panoptic Segmentation**|Oliver Hahn et.al.|[2504.01955](http://arxiv.org/abs/2504.01955)|**[link](https://github.com/visinf/cups)**|
+|**2025-04-02**|**Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness**|Haochen Wang et.al.|[2504.01901](http://arxiv.org/abs/2504.01901)|null|
+|**2025-04-02**|**CoMatcher: Multi-View Collaborative Feature Matching**|Jintao Zhang et.al.|[2504.01872](http://arxiv.org/abs/2504.01872)|null|
+|**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755](http://arxiv.org/abs/2504.01755)|null|
+|**2025-04-02**|**TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication**|Petr Vanc et.al.|[2504.01708](http://arxiv.org/abs/2504.01708)|null|
+|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
+|**2025-04-01**|**WikiVideo: Article Generation from Multiple Videos**|Alexander Martin et.al.|[2504.00939](http://arxiv.org/abs/2504.00939)|null|
+|**2025-04-01**|**Zero-Shot 4D Lidar Panoptic Segmentation**|Yushan Zhang et.al.|[2504.00848](http://arxiv.org/abs/2504.00848)|null|
+|**2025-04-01**|**Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights**|Yuchen Liu et.al.|[2504.00839](http://arxiv.org/abs/2504.00839)|null|
+|**2025-03-30**|**PhysPose: Refining 6D Object Poses with Physical Constraints**|Martin Malenický et.al.|[2503.23587](http://arxiv.org/abs/2503.23587)|null|
+|**2025-03-30**|**Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model**|Jannik Endres et.al.|[2503.23502](http://arxiv.org/abs/2503.23502)|**[link](https://github.com/vita-epfl/DFI-OmniStereo)**|
+|**2025-03-30**|**KernelDNA: Dynamic Kernel Sharing via Decoupled Naive Adapters**|Haiduo Huang et.al.|[2503.23379](http://arxiv.org/abs/2503.23379)|**[link](https://github.com/haiduo/KernelDNA)**|
+|**2025-04-02**|**Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery**|Boyi Ma et.al.|[2503.23130](http://arxiv.org/abs/2503.23130)|null|
+|**2025-03-29**|**Evaluating Compositional Scene Understanding in Multimodal Generative Models**|Shuhao Fu et.al.|[2503.23125](http://arxiv.org/abs/2503.23125)|**[link](https://github.com/andrewjlee0/evaluating_compositionality_vlms)**|
+|**2025-03-29**|**Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments**|Yifan Xu et.al.|[2503.23105](http://arxiv.org/abs/2503.23105)|null|
+|**2025-03-29**|**Empowering Large Language Models with 3D Situation Awareness**|Zhihao Yuan et.al.|[2503.23024](http://arxiv.org/abs/2503.23024)|null|
 |**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610](http://arxiv.org/abs/2503.22610)|null|
 |**2025-03-28**|**Next-Best-Trajectory Planning of Robot Manipulators for Effective Observation and Exploration**|Heiko Renz et.al.|[2503.22588](http://arxiv.org/abs/2503.22588)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
@@ -162,7 +182,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 ## MTO
 
@@ -189,12 +209,13 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 ## MOO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Optimization over the weakly Pareto set and multi-task learning**|Lei Huang et.al.|[2504.00257](http://arxiv.org/abs/2504.00257)|null|
 |**2025-03-26**|**A Multi-Objective Capacity-Constrained Optimization of Corn Planting Scheduling**|Mingshi Cui et.al.|[2503.20517](http://arxiv.org/abs/2503.20517)|null|
 |**2025-03-27**|**Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization**|Zhenyu Liang et.al.|[2503.20286](http://arxiv.org/abs/2503.20286)|**[link](https://github.com/emi-group/evomo)**|
 |**2025-03-17**|**Smoothing Accelerated Proximal Gradient Method with Backtracking for Nonsmooth Multiobjective Optimization**|Huang Chengzhi et.al.|[2503.12915](http://arxiv.org/abs/2503.12915)|null|
@@ -222,12 +243,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Data-Driven Design of 3GPP Handover Parameters with Bayesian Optimization and Transfer Learning**|Mohamed Benzaghta et.al.|[2504.02633](http://arxiv.org/abs/2504.02633)|null|
+|**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Xiaofeng Han et.al.|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
+|**2025-04-03**|**Adapting Large Language Models for Multi-Domain Retrieval-Augmented-Generation**|Alexandre Misrahi et.al.|[2504.02411](http://arxiv.org/abs/2504.02411)|null|
+|**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343](http://arxiv.org/abs/2504.02343)|null|
+|**2025-04-03**|**Generative Classifier for Domain Generalization**|Shaocong Long et.al.|[2504.02272](http://arxiv.org/abs/2504.02272)|null|
+|**2025-04-03**|**MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception**|Wenzhuo Liu et.al.|[2504.02264](http://arxiv.org/abs/2504.02264)|null|
+|**2025-04-02**|**Instruction-Guided Autoregressive Neural Network Parameter Generation**|Soro Bedionita et.al.|[2504.02012](http://arxiv.org/abs/2504.02012)|null|
+|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
+|**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655](http://arxiv.org/abs/2504.01655)|**[link](https://github.com/yeppp27/q-adapt)**|
+|**2025-04-02**|**Context-Aware Toxicity Detection in Multiplayer Games: Integrating Domain-Adaptive Pretraining and Match Metadata**|Adrien Schurger-Foy et.al.|[2504.01534](http://arxiv.org/abs/2504.01534)|null|
+|**2025-04-01**|**Detecting PTSD in Clinical Interviews: A Comparative Analysis of NLP Methods and Large Language Models**|Feng Chen et.al.|[2504.01216](http://arxiv.org/abs/2504.01216)|null|
+|**2025-04-01**|**GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection**|Banafsheh Adami et.al.|[2504.01213](http://arxiv.org/abs/2504.01213)|null|
+|**2025-04-01**|**Privacy-Preserving Transfer Learning for Community Detection using Locally Distributed Multiple Networks**|Xiao Guo et.al.|[2504.00890](http://arxiv.org/abs/2504.00890)|null|
+|**2025-04-01**|**Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights**|Yuchen Liu et.al.|[2504.00839](http://arxiv.org/abs/2504.00839)|null|
+|**2025-04-01**|**Data-driven Optimization and Transfer Learning for Cellular Network Antenna Configurations**|Mohamed Benzaghta et.al.|[2504.00825](http://arxiv.org/abs/2504.00825)|null|
+|**2025-04-01**|**GLiNER-biomed: A Suite of Efficient Models for Open Biomedical Named Entity Recognition**|Anthony Yazdani et.al.|[2504.00676](http://arxiv.org/abs/2504.00676)|**[link](https://github.com/ds4dh/GLiNER-biomed)**|
+|**2025-04-01**|**High-Quality Pseudo-Label Generation Based on Visual Prompt Assisted Cloud Model Update**|Xinrun Xu et.al.|[2504.00526](http://arxiv.org/abs/2504.00526)|null|
+|**2025-04-01**|**Transfer Learning in Financial Time Series with Gramian Angular Field**|Hou-Wan Long et.al.|[2504.00378](http://arxiv.org/abs/2504.00378)|null|
+|**2025-04-01**|**Spatiotemporal Attention Learning Framework for Event-Driven Object Recognition**|Tiantian Xie et.al.|[2504.00370](http://arxiv.org/abs/2504.00370)|null|
 |**2025-03-28**|**Deep learning-enabled prediction of surgical errors during cataract surgery: from simulation to real-world application**|Maxime Faure et.al.|[2503.22647](http://arxiv.org/abs/2503.22647)|null|
 |**2025-03-28**|**Accelerated VQE: Parameter Recycling for Similar Recurring Problem Instances**|Tobias Rohe et.al.|[2503.22590](http://arxiv.org/abs/2503.22590)|null|
 |**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
@@ -378,7 +419,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
