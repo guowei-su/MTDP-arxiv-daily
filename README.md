@@ -1,4 +1,4 @@
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## Dense Prediction
 
@@ -76,7 +76,7 @@
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
 |**2025-03-28**|**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**|Rulin Zhou et.al.|[2503.22394](http://arxiv.org/abs/2503.22394)|null|
 |**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
-|**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087](http://arxiv.org/abs/2503.22087)|null|
+|**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087](http://arxiv.org/abs/2503.22087)|**[link](https://github.com/moonseokha/streamocc)**|
 |**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting**|Anand Bhattad et.al.|[2503.21770](http://arxiv.org/abs/2503.21770)|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
@@ -182,7 +182,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## MTO
 
@@ -209,7 +209,7 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## MOO
 
@@ -243,7 +243,7 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## Negative Transfer
 
@@ -259,7 +259,7 @@
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
 |**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
 |**2025-04-02**|**Q-Adapt: Adapting LMM for Visual Quality Assessment with Progressive Instruction Tuning**|Yiting Lu et.al.|[2504.01655](http://arxiv.org/abs/2504.01655)|**[link](https://github.com/yeppp27/q-adapt)**|
-|**2025-04-02**|**Context-Aware Toxicity Detection in Multiplayer Games: Integrating Domain-Adaptive Pretraining and Match Metadata**|Adrien Schurger-Foy et.al.|[2504.01534](http://arxiv.org/abs/2504.01534)|null|
+|**2025-04-02**|**Context-Aware Toxicity Detection in Multiplayer Games: Integrating Domain-Adaptive Pretraining and Match Metadata**|Adrien Schurger-Foy et.al.|[2504.01534](http://arxiv.org/abs/2504.01534)|**[link](https://github.com/AdrienSF/proactive-contextful-toxicity-detection)**|
 |**2025-04-01**|**Detecting PTSD in Clinical Interviews: A Comparative Analysis of NLP Methods and Large Language Models**|Feng Chen et.al.|[2504.01216](http://arxiv.org/abs/2504.01216)|null|
 |**2025-04-01**|**GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection**|Banafsheh Adami et.al.|[2504.01213](http://arxiv.org/abs/2504.01213)|null|
 |**2025-04-01**|**Privacy-Preserving Transfer Learning for Community Detection using Locally Distributed Multiple Networks**|Xiao Guo et.al.|[2504.00890](http://arxiv.org/abs/2504.00890)|null|
@@ -292,16 +292,16 @@
 |**2025-03-26**|**A Deep Learning Pipeline for Large Earthquake Analysis using High-Rate Global Navigation Satellite System Data**|Claudia Quinteros-Cartaya et.al.|[2503.20584](http://arxiv.org/abs/2503.20584)|null|
 |**2025-03-26**|**Low-resource Information Extraction with the European Clinical Case Corpus**|Soumitra Ghosh et.al.|[2503.20568](http://arxiv.org/abs/2503.20568)|null|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
-|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|null|
+|**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|**[link](https://github.com/ritatsousa/expressionKGplus)**|
 |**2025-03-25**|**Domain Adaptation Framework for Turning Movement Count Estimation with Limited Data**|Xiaobo Ma et.al.|[2503.20113](http://arxiv.org/abs/2503.20113)|null|
-|**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|null|
+|**2025-03-25**|**The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs**|Jonathan Sauder et.al.|[2503.20000](http://arxiv.org/abs/2503.20000)|**[link](https://github.com/eceo-epfl/coralscapesScripts)**|
 |**2025-03-25**|**Untangling the Influence of Typology, Data and Model Architecture on Ranking Transfer Languages for Cross-Lingual POS Tagging**|Enora Rice et.al.|[2503.19979](http://arxiv.org/abs/2503.19979)|null|
 |**2025-03-25**|**EventFly: Event Camera Perception from Ground to the Sky**|Lingdong Kong et.al.|[2503.19916](http://arxiv.org/abs/2503.19916)|null|
-|**2025-03-25**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693](http://arxiv.org/abs/2503.19693)|null|
+|**2025-03-25**|**AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation**|Itay Nakash et.al.|[2503.19693](http://arxiv.org/abs/2503.19693)|**[link](https://github.com/itay-nakash/AdaptiVocab)**|
 |**2025-03-24**|**Convolutional neural network approach to ion Coulomb crystal image analysis**|James Allsopp et.al.|[2503.18846](http://arxiv.org/abs/2503.18846)|null|
 |**2025-03-24**|**OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad**|Luyao Tang et.al.|[2503.18695](http://arxiv.org/abs/2503.18695)|**[link](https://github.com/lytang63/OCRT)**|
 |**2025-03-24**|**ClinText-SP and RigoBERTa Clinical: a new set of open resources for Spanish Clinical NLP**|Guillem García Subies et.al.|[2503.18594](http://arxiv.org/abs/2503.18594)|null|
-|**2025-03-24**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|null|
+|**2025-03-24**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|**[link](https://github.com/aicell-lab/cell-video-diffusion)**|
 |**2025-03-24**|**Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement**|Biwen Meng et.al.|[2503.18567](http://arxiv.org/abs/2503.18567)|null|
 |**2025-03-24**|**Natural Language Processing for Electronic Health Records in Scandinavian Languages: Norwegian, Swedish, and Danish**|Ashenafi Zebene Woldaregay et.al.|[2503.18539](http://arxiv.org/abs/2503.18539)|null|
 |**2025-03-24**|**k-NN as a Simple and Effective Estimator of Transferability**|Moein Sorkhei et.al.|[2503.18528](http://arxiv.org/abs/2503.18528)|null|
@@ -406,7 +406,7 @@
 |**2025-02-28**|**Chain-of-Thought Matters: Improving Long-Context Language Models with Reasoning Path Supervision**|Dawei Zhu et.al.|[2502.20790](http://arxiv.org/abs/2502.20790)|null|
 |**2025-02-27**|**On the Role of Individual Differences in Current Approaches to Computational Image Aesthetics**|Li-Wei Chen et.al.|[2502.20518](http://arxiv.org/abs/2502.20518)|null|
 |**2025-02-27**|**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**|Pierre Vuillecard et.al.|[2502.20249](http://arxiv.org/abs/2502.20249)|null|
-|**2025-02-27**|**Deep Convolutional Neural Networks for Palm Fruit Maturity Classification**|Mingqiang Han et.al.|[2502.20223](http://arxiv.org/abs/2502.20223)|null|
+|**2025-02-27**|**Deep Convolutional Neural Networks for Palm Fruit Maturity Classification**|Mingqiang Han et.al.|[2502.20223](http://arxiv.org/abs/2502.20223)|**[link](https://github.com/mingqianghan/PalmFruitMaturity-CNN)**|
 |**2025-02-27**|**An Amplitude-Encoding-Based Classical-Quantum Transfer Learning framework: Outperforming Classical Methods in Image Recognition**|Shouwei Hu et.al.|[2502.20184](http://arxiv.org/abs/2502.20184)|null|
 |**2025-03-03**|**Gradient-Guided Annealing for Domain Generalization**|Aristotelis Ballas et.al.|[2502.20162](http://arxiv.org/abs/2502.20162)|**[link](https://github.com/aristotelisballas/gga)**|
 |**2025-02-27**|**Transfer Learning in Latent Contextual Bandits with Covariate Shift Through Causal Transportability**|Mingwei Deng et.al.|[2502.20153](http://arxiv.org/abs/2502.20153)|**[link](https://github.com/Marksmug/CEVAE-Transportability)**|
@@ -419,7 +419,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
