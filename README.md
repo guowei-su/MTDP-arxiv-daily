@@ -1,4 +1,4 @@
-## Updated on 2025.04.21
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,8 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
 |**2025-04-16**|**Towards Human-Centered Early Prediction Models for Academic Performance in Real-World Contexts**|Han Zhang et.al.|[2504.12236](http://arxiv.org/abs/2504.12236)|null|
-|**2025-04-10**|**On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion Rate Prediction**|Jinfeng Zhuang et.al.|[2504.08169](http://arxiv.org/abs/2504.08169)|null|
+|**2025-04-23**|**On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion Rate Prediction**|Jinfeng Zhuang et.al.|[2504.08169](http://arxiv.org/abs/2504.08169)|null|
 |**2025-04-11**|**DG-STMTL: A Novel Graph Convolutional Network for Multi-Task Spatio-Temporal Traffic Forecasting**|Wanna Cui et.al.|[2504.07822](http://arxiv.org/abs/2504.07822)|null|
 |**2025-04-08**|**xMTF: A Formula-Free Model for Reinforcement-Learning-Based Multi-Task Fusion in Recommender Systems**|Yang Cao et.al.|[2504.05669](http://arxiv.org/abs/2504.05669)|null|
 |**2025-02-23**|**Efficient Multi-Task Learning via Generalist Recommender**|Luyang Wang et.al.|[2504.05318](http://arxiv.org/abs/2504.05318)|null|
@@ -53,12 +54,21 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
+|**2025-04-21**|**Multimodal Large Language Models for Enhanced Traffic Safety: A Comprehensive Review and Future Trends**|Mohammad Abu Tami et.al.|[2504.16134](http://arxiv.org/abs/2504.16134)|null|
+|**2025-04-22**|**Vision language models are unreliable at trivial spatial cognition**|Sangeet Khemlani et.al.|[2504.16061](http://arxiv.org/abs/2504.16061)|null|
+|**2025-04-20**|**RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots**|Zhang Zhang et.al.|[2504.14604](http://arxiv.org/abs/2504.14604)|null|
+|**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[2504.14526](http://arxiv.org/abs/2504.14526)|**[link](https://github.com/tong-zeng/dvbench)**|
+|**2025-04-20**|**Vision-Centric Representation-Efficient Fine-Tuning for Robust Universal Foreground Segmentation**|Guoyi Zhang et.al.|[2504.14481](http://arxiv.org/abs/2504.14481)|null|
+|**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|**[link](https://github.com/stefan-ainetter/SCANnotatepp)**|
+|**2025-04-18**|**Temporal Propagation of Asymmetric Feature Pyramid for Surgical Scene Segmentation**|Cheng Yuan et.al.|[2504.13440](http://arxiv.org/abs/2504.13440)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153](http://arxiv.org/abs/2504.13153)|**[link](https://github.com/atrovast/thgs)**|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817](http://arxiv.org/abs/2504.12817)|null|
@@ -220,7 +230,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## MTO
 
@@ -248,12 +258,14 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## MOO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Multiobjective Optimization for Robust Holonomic Quantum Gates**|Min-Hua Zhang et.al.|[2504.17259](http://arxiv.org/abs/2504.17259)|null|
+|**2025-04-22**|**Multiobjective optimization for scattering mitigation and scattering screen reconstruction in VLBI observations of the Galactic Center**|Alejandro Mus et.al.|[2504.16257](http://arxiv.org/abs/2504.16257)|null|
 |**2025-04-07**|**Multiobjective Optimization under Uncertainties using Conditional Pareto Fronts**|Victor Trappler et.al.|[2504.04944](http://arxiv.org/abs/2504.04944)|null|
 |**2025-03-31**|**Optimization over the weakly Pareto set and multi-task learning**|Lei Huang et.al.|[2504.00257](http://arxiv.org/abs/2504.00257)|null|
 |**2025-03-26**|**A Multi-Objective Capacity-Constrained Optimization of Corn Planting Scheduling**|Mingshi Cui et.al.|[2503.20517](http://arxiv.org/abs/2503.20517)|null|
@@ -283,12 +295,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
+|**2025-04-24**|**An Explainable Nature-Inspired Framework for Monkeypox Diagnosis: Xception Features Combined with NGBoost and African Vultures Optimization Algorithm**|Ahmadreza Shateri et.al.|[2504.17540](http://arxiv.org/abs/2504.17540)|null|
+|**2025-04-24**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515](http://arxiv.org/abs/2504.17515)|null|
+|**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2504.17399](http://arxiv.org/abs/2504.17399)|null|
+|**2025-04-24**|**On the workflow, opportunities and challenges of developing foundation model in geophysics**|Hanlin Sheng et.al.|[2504.17384](http://arxiv.org/abs/2504.17384)|null|
+|**2025-04-24**|**The Riemannian Means Field Classifier for EEG-Based BCI Data**|Anton Andreev et.al.|[2504.17352](http://arxiv.org/abs/2504.17352)|null|
+|**2025-04-24**|**JurisCTC: Enhancing Legal Judgment Prediction via Cross-Domain Transfer and Contrastive Learning**|Zhaolu Kang et.al.|[2504.17264](http://arxiv.org/abs/2504.17264)|null|
+|**2025-04-24**|**Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo**|Ocheme Anthony Ekle et.al.|[2504.17252](http://arxiv.org/abs/2504.17252)|null|
+|**2025-04-23**|**A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs**|Jalal Arabneydi et.al.|[2504.17006](http://arxiv.org/abs/2504.17006)|null|
+|**2025-04-23**|**Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications**|Hossein Ahmadi et.al.|[2504.16972](http://arxiv.org/abs/2504.16972)|null|
+|**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866](http://arxiv.org/abs/2504.16866)|null|
+|**2025-04-23**|**Energy-Based Pseudo-Label Refining for Source-free Domain Adaptation**|Xinru Meng et.al.|[2504.16692](http://arxiv.org/abs/2504.16692)|null|
+|**2025-04-23**|**Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning**|Yahao Lu et.al.|[2504.16487](http://arxiv.org/abs/2504.16487)|null|
+|**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
+|**2025-04-22**|**Efficient Adaptation of Deep Neural Networks for Semantic Segmentation in Space Applications**|Leonardo Olivi et.al.|[2504.15991](http://arxiv.org/abs/2504.15991)|null|
+|**2025-04-23**|**MedNNS: Supernet-based Medical Task-Adaptive Neural Network Search**|Lotfi Abdelkrim Mecharbat et.al.|[2504.15865](http://arxiv.org/abs/2504.15865)|null|
+|**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
+|**2025-04-22**|**iMedic: Towards Smartphone-based Self-Auscultation Tool for AI-Powered Pediatric Respiratory Assessment**|Seung Gyu Jeong et.al.|[2504.15743](http://arxiv.org/abs/2504.15743)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
 |**2025-04-17**|**Transfer Learning via Auxiliary Labels with Application to Cold-Hardiness Prediction**|Kristen Goebel et.al.|[2504.13142](http://arxiv.org/abs/2504.13142)|null|
 |**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077](http://arxiv.org/abs/2504.13077)|**[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)**|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
@@ -519,7 +551,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
