@@ -1,4 +1,4 @@
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**MTL-UE: Learning to Learn Nothing for Multi-Task Learning**|Yi Yu et.al.|[2505.05279](http://arxiv.org/abs/2505.05279)|null|
+|**2025-05-07**|**Multitask LSTM for Arboviral Outbreak Prediction Using Public Health Data**|Lucas R. C. Farias et.al.|[2505.04566](http://arxiv.org/abs/2505.04566)|null|
+|**2025-05-07**|**NN-Based Joint Mitigation of IQ Imbalance and PA Nonlinearity With Multiple States**|Yundi Zhang et.al.|[2505.04373](http://arxiv.org/abs/2505.04373)|null|
+|**2025-05-05**|**GeoERM: Geometry-Aware Multi-Task Representation Learning on Riemannian Manifolds**|Aoran Chen et.al.|[2505.02972](http://arxiv.org/abs/2505.02972)|null|
+|**2025-05-04**|**CSASN: A Multitask Attention-Based Framework for Heterogeneous Thyroid Carcinoma Classification in Ultrasound Images**|Peiqi Li et.al.|[2505.02211](http://arxiv.org/abs/2505.02211)|null|
 |**2025-04-20**|**Efficient Knowledge Transfer in Multi-Task Learning through Task-Adaptive Low-Rank Representation**|Xiao Zhang et.al.|[2505.00009](http://arxiv.org/abs/2505.00009)|null|
 |**2025-04-19**|**Analyzing Feedback Mechanisms in AI-Generated MCQs: Insights into Readability, Lexical Properties, and Levels of Challenge**|Antoun Yaacoub et.al.|[2504.21013](http://arxiv.org/abs/2504.21013)|null|
 |**2025-04-25**|**Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality MRI**|Yue Li et.al.|[2504.18442](http://arxiv.org/abs/2504.18442)|null|
@@ -57,14 +62,25 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization**|Sooyoung Park et.al.|[2505.05343](http://arxiv.org/abs/2505.05343)|**[link](https://github.com/swimmiing/ACL-SSL)**|
+|**2025-05-08**|**MTL-UE: Learning to Learn Nothing for Multi-Task Learning**|Yi Yu et.al.|[2505.05279](http://arxiv.org/abs/2505.05279)|null|
+|**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[2505.05240](http://arxiv.org/abs/2505.05240)|null|
+|**2025-05-08**|**Does CLIP perceive art the same way we do?**|Andrea Asperti et.al.|[2505.05229](http://arxiv.org/abs/2505.05229)|null|
+|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|null|
+|**2025-05-07**|**RAFT: Robust Augmentation of FeaTures for Image Segmentation**|Edward Humes et.al.|[2505.04529](http://arxiv.org/abs/2505.04529)|null|
+|**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Junjie Wang et.al.|[2505.04410](http://arxiv.org/abs/2505.04410)|**[link](https://github.com/xiaomoguhz/declip)**|
+|**2025-05-03**|**Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models**|Gracjan Góral et.al.|[2505.03821](http://arxiv.org/abs/2505.03821)|null|
+|**2025-05-04**|**Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation**|Volodymyr Havrylov et.al.|[2505.02075](http://arxiv.org/abs/2505.02075)|**[link](https://github.com/havrylovv/isegprobe)**|
+|**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
+|**2025-05-02**|**Embracing Diffraction: A Paradigm Shift in Wireless Sensing and Communication**|Anurag Pallaprolu et.al.|[2505.01625](http://arxiv.org/abs/2505.01625)|null|
 |**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[2505.00156](http://arxiv.org/abs/2505.00156)|null|
-|**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
+|**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|**[link](https://github.com/marc1198/chat-hsr)**|
 |**2025-04-30**|**ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality**|Jaewook Lee et.al.|[2504.21360](http://arxiv.org/abs/2504.21360)|null|
 |**2025-04-28**|**Category-Level and Open-Set Object Pose Estimation for Robotics**|Peter Hönig et.al.|[2504.19572](http://arxiv.org/abs/2504.19572)|null|
 |**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
@@ -242,7 +258,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## MTO
 
@@ -270,12 +286,13 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## MOO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Analytical Gradient-Based Optimization of CALPHAD Model Parameters**|Courtney Kunselman et.al.|[2505.01585](http://arxiv.org/abs/2505.01585)|null|
 |**2025-04-29**|**Clustering-Based Evolutionary Federated Multiobjective Optimization and Learning**|Chengui Xiao et.al.|[2504.20346](http://arxiv.org/abs/2504.20346)|null|
 |**2025-04-24**|**Multiobjective Optimization for Robust Holonomic Quantum Gates**|Min-Hua Zhang et.al.|[2504.17259](http://arxiv.org/abs/2504.17259)|null|
 |**2025-04-22**|**Multiobjective optimization for scattering mitigation and scattering screen reconstruction in VLBI observations of the Galactic Center**|Alejandro Mus et.al.|[2504.16257](http://arxiv.org/abs/2504.16257)|null|
@@ -308,12 +325,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints**|Mahmoud Amiri et.al.|[2505.05232](http://arxiv.org/abs/2505.05232)|null|
+|**2025-05-08**|**Improved Brain Tumor Detection in MRI: Fuzzy Sigmoid Convolution in Deep Learning**|Muhammad Irfan et.al.|[2505.05208](http://arxiv.org/abs/2505.05208)|null|
+|**2025-05-08**|**Concept-Based Unsupervised Domain Adaptation**|Xinyue Xu et.al.|[2505.05195](http://arxiv.org/abs/2505.05195)|null|
+|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
+|**2025-05-08**|**Position: Epistemic Artificial Intelligence is Essential for Machine Learning Models to Know When They Do Not Know**|Shireen Kudukkil Manchingal et.al.|[2505.04950](http://arxiv.org/abs/2505.04950)|null|
+|**2025-05-08**|**Structural Alignment in Link Prediction**|Jeffrey Seathrún Sardina et.al.|[2505.04939](http://arxiv.org/abs/2505.04939)|null|
+|**2025-05-08**|**VaCDA: Variational Contrastive Alignment-based Scalable Human Activity Recognition**|Soham Khisa et.al.|[2505.04907](http://arxiv.org/abs/2505.04907)|null|
+|**2025-05-06**|**Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions**|Adithya Kulkarni et.al.|[2505.04651](http://arxiv.org/abs/2505.04651)|null|
+|**2025-05-07**|**RAFT: Robust Augmentation of FeaTures for Image Segmentation**|Edward Humes et.al.|[2505.04529](http://arxiv.org/abs/2505.04529)|null|
+|**2025-05-05**|**Advanced Clustering Framework for Semiconductor Image Analytics Integrating Deep TDA with Self-Supervised and Transfer Learning Techniques**|Janhavi Giri et.al.|[2505.03848](http://arxiv.org/abs/2505.03848)|null|
+|**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
+|**2025-05-07**|**Multi-modal cascade feature transfer for polymer property prediction**|Kiichi Obuchi et.al.|[2505.03704](http://arxiv.org/abs/2505.03704)|null|
+|**2025-05-06**|**Panoramic Out-of-Distribution Segmentation**|Mengfei Duan et.al.|[2505.03539](http://arxiv.org/abs/2505.03539)|**[link](https://github.com/mengfeid/panoos)**|
+|**2025-05-06**|**Comparative Analysis of Lightweight Deep Learning Models for Memory-Constrained Devices**|Tasnim Shahriar et.al.|[2505.03303](http://arxiv.org/abs/2505.03303)|null|
+|**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300](http://arxiv.org/abs/2505.03300)|null|
+|**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140](http://arxiv.org/abs/2505.03140)|null|
+|**2025-05-05**|**GeoERM: Geometry-Aware Multi-Task Representation Learning on Riemannian Manifolds**|Aoran Chen et.al.|[2505.02972](http://arxiv.org/abs/2505.02972)|null|
+|**2025-05-05**|**Early Prediction of Sepsis: Feature-Aligned Transfer Learning**|Oyindolapo O. Komolafe et.al.|[2505.02889](http://arxiv.org/abs/2505.02889)|null|
+|**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634](http://arxiv.org/abs/2505.02634)|null|
+|**2025-05-05**|**FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization**|Hongze Li et.al.|[2505.02515](http://arxiv.org/abs/2505.02515)|**[link](https://github.com/pizzareapers/fedsdaf)**|
 |**2025-05-02**|**A Physics-preserved Transfer Learning Method for Differential Equations**|Hao-Ran Yang et.al.|[2505.01281](http://arxiv.org/abs/2505.01281)|null|
 |**2025-05-02**|**Harmonizing Intra-coherence and Inter-divergence in Ensemble Attacks for Adversarial Transferability**|Zhaoyang Ma et.al.|[2505.01168](http://arxiv.org/abs/2505.01168)|null|
 |**2025-05-02**|**VTS-LLM: Domain-Adaptive LLM Agent for Enhancing Awareness in Vessel Traffic Services through Natural Language**|Sijin Sun et.al.|[2505.00989](http://arxiv.org/abs/2505.00989)|null|
@@ -604,7 +641,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
