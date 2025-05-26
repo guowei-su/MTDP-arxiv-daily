@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Learning Beyond Limits: Multitask Learning and Synthetic Data for Low-Resource Canonical Morpheme Segmentation**|Changbing Yang et.al.|[2505.16800](http://arxiv.org/abs/2505.16800)|null|
+|**2025-05-20**|**Multimodal Mixture of Low-Rank Experts for Sentiment Analysis and Emotion Recognition**|Shuo Zhang et.al.|[2505.14143](http://arxiv.org/abs/2505.14143)|null|
+|**2025-05-20**|**D4+: Emergent Adversarial Driving Maneuvers with Approximate Functional Optimization**|Diego Ortiz Barbosa et.al.|[2505.13942](http://arxiv.org/abs/2505.13942)|**[link](https://github.com/lburbano/acc_verifai)**|
 |**2025-05-13**|**End-to-End Multi-Task Policy Learning from NMPC for Quadruped Locomotion**|Anudeep Sajja et.al.|[2505.08574](http://arxiv.org/abs/2505.08574)|null|
 |**2025-05-11**|**Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning**|Ye Zhu et.al.|[2505.06796](http://arxiv.org/abs/2505.06796)|**[link](https://github.com/yunan-wang33/sdml)**|
 |**2025-05-06**|**Tri-MTL: A Triple Multitask Learning Approach for Respiratory Disease Diagnosis**|June-Woo Kim et.al.|[2505.06271](http://arxiv.org/abs/2505.06271)|null|
@@ -65,6 +68,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663](http://arxiv.org/abs/2505.16663)|**[link](https://github.com/oceanhao/CoNav)**|
+|**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
+|**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Naman Patel et.al.|[2505.15373](http://arxiv.org/abs/2505.15373)|null|
+|**2025-05-21**|**DC-Scene: Data-Centric Learning for 3D Scene Understanding**|Ting Huang et.al.|[2505.15232](http://arxiv.org/abs/2505.15232)|**[link](https://github.com/aigeeksgroup/dc-scene)**|
 |**2025-05-19**|**AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning**|Kai Zhang et.al.|[2505.12782](http://arxiv.org/abs/2505.12782)|null|
 |**2025-05-19**|**Predicting Reaction Time to Comprehend Scenes with Foveated Scene Understanding Maps**|Ziqi Wen et.al.|[2505.12660](http://arxiv.org/abs/2505.12660)|null|
 |**2025-05-18**|**Temporal-Spectral-Spatial Unified Remote Sensing Dense Prediction**|Sijie Zhao et.al.|[2505.12280](http://arxiv.org/abs/2505.12280)|**[link](https://github.com/walking-shadow/official_tssun)**|
@@ -306,10 +314,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**A Quasi-Newton Method to Solve Uncertain Multiobjective Optimization Problems with Uncertainty Set of Finite Cardinality**|K. Gupta et.al.|[2505.13967](http://arxiv.org/abs/2505.13967)|null|
+|**2025-05-19**|**Error estimates for a multiobjective optimal control of a pointwise tracking problem**|Francisco Fuica et.al.|[2505.13743](http://arxiv.org/abs/2505.13743)|null|
 |**2025-05-02**|**Analytical Gradient-Based Optimization of CALPHAD Model Parameters**|Courtney Kunselman et.al.|[2505.01585](http://arxiv.org/abs/2505.01585)|null|
 |**2025-04-29**|**Clustering-Based Evolutionary Federated Multiobjective Optimization and Learning**|Chengui Xiao et.al.|[2504.20346](http://arxiv.org/abs/2504.20346)|null|
 |**2025-04-24**|**Multiobjective Optimization for Robust Holonomic Quantum Gates**|Min-Hua Zhang et.al.|[2504.17259](http://arxiv.org/abs/2504.17259)|null|
-|**2025-04-22**|**Multiobjective optimization for scattering mitigation and scattering screen reconstruction in VLBI observations of the Galactic Center**|Alejandro Mus et.al.|[2504.16257](http://arxiv.org/abs/2504.16257)|null|
+|**2025-05-21**|**Multiobjective optimization for scattering mitigation and scattering screen reconstruction in VLBI observations of the Galactic Center**|Alejandro Mus et.al.|[2504.16257](http://arxiv.org/abs/2504.16257)|null|
 |**2025-04-07**|**Multiobjective Optimization under Uncertainties using Conditional Pareto Fronts**|Victor Trappler et.al.|[2504.04944](http://arxiv.org/abs/2504.04944)|null|
 |**2025-03-31**|**Optimization over the weakly Pareto set and multi-task learning**|Lei Huang et.al.|[2504.00257](http://arxiv.org/abs/2504.00257)|null|
 |**2025-03-26**|**A Multi-Objective Capacity-Constrained Optimization of Corn Planting Scheduling**|Mingshi Cui et.al.|[2503.20517](http://arxiv.org/abs/2503.20517)|null|
@@ -343,6 +353,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
+|**2025-05-22**|**GCAL: Adapting Graph Models to Evolving Domain Shifts**|Ziyue Qiao et.al.|[2505.16860](http://arxiv.org/abs/2505.16860)|**[link](https://github.com/joe817/gcal)**|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|null|
+|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778](http://arxiv.org/abs/2505.16778)|**[link](https://github.com/jbr97/urm)**|
+|**2025-05-22**|**Mitigating Overfitting in Medical Imaging: Self-Supervised Pretraining vs. ImageNet Transfer Learning for Dermatological Diagnosis**|Iván Matas et.al.|[2505.16773](http://arxiv.org/abs/2505.16773)|null|
+|**2025-05-22**|**End-to-End Framework for Predicting the Remaining Useful Life of Lithium-Ion Batteries**|Khoa Tran et.al.|[2505.16664](http://arxiv.org/abs/2505.16664)|null|
+|**2025-05-22**|**WikiDBGraph: Large-Scale Database Graph of Wikidata for Collaborative Learning**|Zhaomin Wu et.al.|[2505.16635](http://arxiv.org/abs/2505.16635)|null|
+|**2025-05-22**|**Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**|Estelle Chigot et.al.|[2505.16360](http://arxiv.org/abs/2505.16360)|**[link](https://github.com/echigot/cactif)**|
+|**2025-05-22**|**Swin Transformer for Robust CGI Images Detection: Intra- and Inter-Dataset Analysis across Multiple Color Spaces**|Preeti Mehta et.al.|[2505.16253](http://arxiv.org/abs/2505.16253)|null|
+|**2025-05-22**|**Reward-Aware Proto-Representations in Reinforcement Learning**|Hon Tik Tse et.al.|[2505.16217](http://arxiv.org/abs/2505.16217)|null|
+|**2025-05-22**|**Scalable Graph Generative Modeling via Substructure Sequences**|Zehong Wang et.al.|[2505.16130](http://arxiv.org/abs/2505.16130)|**[link](https://github.com/zehong-wang/g2pm)**|
+|**2025-05-21**|**SynEVO: A neuro-inspired spatiotemporal evolutional framework for cross-domain adaptation**|Jiayue Liu et.al.|[2505.16080](http://arxiv.org/abs/2505.16080)|null|
+|**2025-05-21**|**An Exploratory Approach Towards Investigating and Explaining Vision Transformer and Transfer Learning for Brain Disease Detection**|Shuvashis Sarker et.al.|[2505.16039](http://arxiv.org/abs/2505.16039)|null|
+|**2025-05-21**|**An Approach Towards Identifying Bangladeshi Leaf Diseases through Transfer Learning and XAI**|Faika Fairuj Preotee et.al.|[2505.16033](http://arxiv.org/abs/2505.16033)|null|
+|**2025-05-21**|**Comprehensive Lung Disease Detection Using Deep Learning Models and Hybrid Chest X-ray Data with Explainable AI**|Shuvashis Sarker et.al.|[2505.16028](http://arxiv.org/abs/2505.16028)|null|
+|**2025-05-21**|**Image-to-Image Translation with Diffusion Transformers and CLIP-Based Image Conditioning**|Qiang Zhu et.al.|[2505.16001](http://arxiv.org/abs/2505.16001)|null|
+|**2025-05-21**|**Domain Adaptive Skin Lesion Classification via Conformal Ensemble of Vision Transformers**|Mehran Zoravar et.al.|[2505.15997](http://arxiv.org/abs/2505.15997)|null|
+|**2025-05-21**|**Transfer of Structural Knowledge from Synthetic Languages**|Mikhail Budnikov et.al.|[2505.15769](http://arxiv.org/abs/2505.15769)|**[link](https://github.com/msh2481/language_transfer)**|
+|**2025-05-21**|**DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning**|Gaurav Srivastava et.al.|[2505.15734](http://arxiv.org/abs/2505.15734)|null|
+|**2025-05-21**|**Bridging the Domain Gap in Equation Distillation with Reinforcement Feedback**|Wangyang Ying et.al.|[2505.15572](http://arxiv.org/abs/2505.15572)|null|
 |**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130](http://arxiv.org/abs/2505.13130)|null|
 |**2025-05-19**|**Cross-modal Knowledge Transfer Learning as Graph Matching Based on Optimal Transport for ASR**|Xugang Lu et.al.|[2505.13079](http://arxiv.org/abs/2505.13079)|null|
 |**2025-05-19**|**To Bias or Not to Bias: Detecting bias in News with bias-detector**|Himel Ghosh et.al.|[2505.13010](http://arxiv.org/abs/2505.13010)|null|
