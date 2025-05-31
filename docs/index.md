@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595](http://arxiv.org/abs/2505.23595)|null|
+|**2025-05-29**|**Epistemic Errors of Imperfect Multitask Learners When Distributions Shift**|Sabina J. Sloman et.al.|[2505.23496](http://arxiv.org/abs/2505.23496)|null|
+|**2025-05-29**|**Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking**|Yuatyong Chaichana et.al.|[2505.23117](http://arxiv.org/abs/2505.23117)|null|
+|**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
+|**2025-05-27**|**Measuring Fine-Grained Relatedness in Multitask Learning via Data Attribution**|Yiwen Tu et.al.|[2505.21438](http://arxiv.org/abs/2505.21438)|null|
+|**2025-05-23**|**Multi-task Learning For Joint Action and Gesture Recognition**|Konstantinos Spathis et.al.|[2505.17867](http://arxiv.org/abs/2505.17867)|null|
+|**2025-05-23**|**Anatomy-Guided Multitask Learning for MRI-Based Classification of Placenta Accreta Spectrum and its Subtypes**|Hai Jiang et.al.|[2505.17484](http://arxiv.org/abs/2505.17484)|null|
 |**2025-05-22**|**Learning Beyond Limits: Multitask Learning and Synthetic Data for Low-Resource Canonical Morpheme Segmentation**|Changbing Yang et.al.|[2505.16800](http://arxiv.org/abs/2505.16800)|null|
 |**2025-05-20**|**Multimodal Mixture of Low-Rank Experts for Sentiment Analysis and Emotion Recognition**|Shuo Zhang et.al.|[2505.14143](http://arxiv.org/abs/2505.14143)|null|
 |**2025-05-20**|**D4+: Emergent Adversarial Driving Maneuvers with Approximate Functional Optimization**|Diego Ortiz Barbosa et.al.|[2505.13942](http://arxiv.org/abs/2505.13942)|**[link](https://github.com/lburbano/acc_verifai)**|
@@ -68,6 +75,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**SeG-SR: Integrating Semantic Knowledge into Remote Sensing Image Super-Resolution via Vision-Language Model**|Bowen Chen et.al.|[2505.23010](http://arxiv.org/abs/2505.23010)|null|
+|**2025-05-28**|**On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation**|Liyao Tang et.al.|[2505.22444](http://arxiv.org/abs/2505.22444)|null|
+|**2025-05-28**|**LiDAR Based Semantic Perception for Forklifts in Outdoor Environments**|Benjamin Serfling et.al.|[2505.22258](http://arxiv.org/abs/2505.22258)|null|
+|**2025-05-28**|**3D Question Answering via only 2D Vision-Language Models**|Fengyun Wang et.al.|[2505.22143](http://arxiv.org/abs/2505.22143)|null|
+|**2025-05-29**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
+|**2025-05-28**|**Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs**|Insu Lee et.al.|[2505.21955](http://arxiv.org/abs/2505.21955)|null|
+|**2025-05-28**|**Test-Time Adaptation of Vision-Language Models for Open-Vocabulary Semantic Segmentation**|Mehrdad Noori et.al.|[2505.21844](http://arxiv.org/abs/2505.21844)|null|
+|**2025-05-27**|**A Graph Completion Method that Jointly Predicts Geometry and Topology Enables Effective Molecule Assembly**|Rohan V. Koodli et.al.|[2505.21833](http://arxiv.org/abs/2505.21833)|null|
+|**2025-05-29**|**Compositional Scene Understanding through Inverse Generative Modeling**|Yanbo Wang et.al.|[2505.21780](http://arxiv.org/abs/2505.21780)|null|
+|**2025-05-29**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Keanu Nichols et.al.|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
+|**2025-05-27**|**Assured Autonomy with Neuro-Symbolic Perception**|R. Spencer Hallyburton et.al.|[2505.21322](http://arxiv.org/abs/2505.21322)|null|
+|**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231](http://arxiv.org/abs/2505.21231)|null|
+|**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079](http://arxiv.org/abs/2505.21079)|null|
+|**2025-05-27**|**OccLE: Label-Efficient 3D Semantic Occupancy Prediction**|Naiyu Fang et.al.|[2505.20617](http://arxiv.org/abs/2505.20617)|null|
+|**2025-05-27**|**OmniIndoor3D: Comprehensive Indoor 3D Reconstruction**|Xiaobao Wei et.al.|[2505.20610](http://arxiv.org/abs/2505.20610)|null|
+|**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
+|**2025-05-26**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
+|**2025-05-25**|**FHGS: Feature-Homogenized Gaussian Splatting**|Q. G. Duan et.al.|[2505.19154](http://arxiv.org/abs/2505.19154)|null|
+|**2025-05-25**|**Co-AttenDWG: Co-Attentive Dimension-Wise Gating and Expert Fusion for Multi-Modal Offensive Content Detection**|Md. Mithun Hossain et.al.|[2505.19010](http://arxiv.org/abs/2505.19010)|null|
+|**2025-05-24**|**Self-Supervised and Generalizable Tokenization for CLIP-Based 3D Understanding**|Guofeng Mei et.al.|[2505.18819](http://arxiv.org/abs/2505.18819)|null|
 |**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663](http://arxiv.org/abs/2505.16663)|**[link](https://github.com/oceanhao/CoNav)**|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
 |**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
@@ -314,6 +341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs**|Runkai Li et.al.|[2505.22086](http://arxiv.org/abs/2505.22086)|null|
 |**2025-05-20**|**A Quasi-Newton Method to Solve Uncertain Multiobjective Optimization Problems with Uncertainty Set of Finite Cardinality**|K. Gupta et.al.|[2505.13967](http://arxiv.org/abs/2505.13967)|null|
 |**2025-05-19**|**Error estimates for a multiobjective optimal control of a pointwise tracking problem**|Francisco Fuica et.al.|[2505.13743](http://arxiv.org/abs/2505.13743)|null|
 |**2025-05-02**|**Analytical Gradient-Based Optimization of CALPHAD Model Parameters**|Courtney Kunselman et.al.|[2505.01585](http://arxiv.org/abs/2505.01585)|null|
@@ -353,6 +381,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation**|Juncheol Shin et.al.|[2505.23651](http://arxiv.org/abs/2505.23651)|null|
+|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595](http://arxiv.org/abs/2505.23595)|null|
+|**2025-05-29**|**PCA for Enhanced Cross-Dataset Generalizability in Breast Ultrasound Tumor Segmentation**|Christian Schmidt et.al.|[2505.23587](http://arxiv.org/abs/2505.23587)|null|
+|**2025-05-29**|**Epistemic Errors of Imperfect Multitask Learners When Distributions Shift**|Sabina J. Sloman et.al.|[2505.23496](http://arxiv.org/abs/2505.23496)|null|
+|**2025-05-29**|**Graph Positional Autoencoders as Self-supervised Learners**|Yang Liu et.al.|[2505.23345](http://arxiv.org/abs/2505.23345)|null|
+|**2025-05-29**|**SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection**|Wenhao Xu et.al.|[2505.23214](http://arxiv.org/abs/2505.23214)|null|
+|**2025-05-29**|**FreRA: A Frequency-Refined Augmentation for Contrastive Learning on Time Series Classification**|Tian Tian et.al.|[2505.23181](http://arxiv.org/abs/2505.23181)|null|
+|**2025-05-29**|**Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization**|Shohei Enomoto et.al.|[2505.23173](http://arxiv.org/abs/2505.23173)|null|
+|**2025-05-28**|**IRS: Incremental Relationship-guided Segmentation for Digital Pathology**|Ruining Deng et.al.|[2505.22855](http://arxiv.org/abs/2505.22855)|null|
+|**2025-05-28**|**When Does Neuroevolution Outcompete Reinforcement Learning in Transfer Learning Tasks?**|Eleni Nisioti et.al.|[2505.22696](http://arxiv.org/abs/2505.22696)|null|
+|**2025-05-28**|**Chest Disease Detection In X-Ray Images Using Deep Learning Classification Method**|Alanna Hazlett et.al.|[2505.22609](http://arxiv.org/abs/2505.22609)|null|
+|**2025-05-28**|**GLAMP: An Approximate Message Passing Framework for Transfer Learning with Applications to Lasso-based Estimators**|Longlin Wang et.al.|[2505.22594](http://arxiv.org/abs/2505.22594)|null|
+|**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|null|
+|**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
+|**2025-05-28**|**Distance Transform Guided Mixup for Alzheimer's Detection**|Zobia Batool et.al.|[2505.22434](http://arxiv.org/abs/2505.22434)|null|
+|**2025-05-28**|**PacTure: Efficient PBR Texture Generation on Packed Views with Visual Autoregressive Models**|Fan Fei et.al.|[2505.22394](http://arxiv.org/abs/2505.22394)|null|
+|**2025-05-28**|**A Multi-output Gaussian Process Regression with Negative Transfer Mitigation for Generating Boundary Test Scenarios of Multi-UAV Systems**|Hanxu Jiang et.al.|[2505.22331](http://arxiv.org/abs/2505.22331)|null|
+|**2025-05-28**|**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**|Junyu Fan et.al.|[2505.22284](http://arxiv.org/abs/2505.22284)|null|
+|**2025-05-28**|**Domain Adaptation of Attention Heads for Zero-shot Anomaly Detection**|Kiyoon Jeong et.al.|[2505.22259](http://arxiv.org/abs/2505.22259)|null|
 |**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**GCAL: Adapting Graph Models to Evolving Domain Shifts**|Ziyue Qiao et.al.|[2505.16860](http://arxiv.org/abs/2505.16860)|**[link](https://github.com/joe817/gcal)**|
 |**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|null|
