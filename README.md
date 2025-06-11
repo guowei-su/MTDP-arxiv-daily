@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|null|
+|**2025-06-06**|**Lightweight Prompt Biasing for Contextualized End-to-End ASR Systems**|Bo Ren et.al.|[2506.06252](http://arxiv.org/abs/2506.06252)|null|
+|**2025-06-06**|**Gradient Similarity Surgery in Multi-Task Deep Learning**|Thomas Borsani et.al.|[2506.06130](http://arxiv.org/abs/2506.06130)|null|
 |**2025-06-03**|**MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver**|Yuepeng Zheng et.al.|[2506.02935](http://arxiv.org/abs/2506.02935)|null|
 |**2025-06-03**|**Multi-task Learning with Active Learning for Arabic Offensive Speech Detection**|Aisha Alansari et.al.|[2506.02753](http://arxiv.org/abs/2506.02753)|null|
 |**2025-06-02**|**Enhancing Customer Service Chatbots with Context-Aware NLU through Selective Attention and Multi-task Learning**|Subhadip Nandi et.al.|[2506.01781](http://arxiv.org/abs/2506.01781)|null|
@@ -86,12 +89,32 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
+|**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
+|**2025-06-09**|**Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent**|Shoon Kit Lim et.al.|[2506.07509](http://arxiv.org/abs/2506.07509)|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
+|**2025-06-08**|**BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction**|Yunxiao Shi et.al.|[2506.07002](http://arxiv.org/abs/2506.07002)|null|
+|**2025-06-07**|**IRS: Instance-Level 3D Scene Graphs via Room Prior Guided LiDAR-Camera Fusion**|Hongming Chen et.al.|[2506.06804](http://arxiv.org/abs/2506.06804)|null|
+|**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631](http://arxiv.org/abs/2506.06631)|null|
+|**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476](http://arxiv.org/abs/2506.06476)|null|
+|**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Leon Mayer et.al.|[2506.06232](http://arxiv.org/abs/2506.06232)|null|
+|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[2506.06218](http://arxiv.org/abs/2506.06218)|null|
+|**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[2506.05917](http://arxiv.org/abs/2506.05917)|null|
+|**2025-06-06**|**HMVLM: Multistage Reasoning-Enhanced Vision-Language Model for Long-Tailed Driving Scenarios**|Daming Wang et.al.|[2506.05883](http://arxiv.org/abs/2506.05883)|null|
+|**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
+|**2025-06-06**|**Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models**|Hugues Thomas et.al.|[2506.05689](http://arxiv.org/abs/2506.05689)|null|
+|**2025-06-06**|**Hallucinate, Ground, Repeat: A Framework for Generalized Visual Relationship Detection**|Shanmukha Vellamcheti et.al.|[2506.05651](http://arxiv.org/abs/2506.05651)|null|
+|**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
+|**2025-06-05**|**SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning**|Fanqi Kong et.al.|[2506.05425](http://arxiv.org/abs/2506.05425)|null|
+|**2025-06-06**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318](http://arxiv.org/abs/2506.05318)|null|
+|**2025-06-06**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
 |**2025-06-04**|**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation**|Jialei Chen et.al.|[2506.03675](http://arxiv.org/abs/2506.03675)|null|
 |**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
@@ -348,7 +371,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## MTO
 
@@ -376,7 +399,7 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## MOO
 
@@ -419,12 +442,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
+|**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769](http://arxiv.org/abs/2506.07769)|null|
+|**2025-06-09**|**Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping**|Nitin Sharma et.al.|[2506.07658](http://arxiv.org/abs/2506.07658)|null|
+|**2025-06-09**|**The Catechol Benchmark: Time-series Solvent Selection Data for Few-shot Machine Learning**|Toby Boyne et.al.|[2506.07619](http://arxiv.org/abs/2506.07619)|null|
+|**2025-06-09**|**SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis**|Jianhui Wei et.al.|[2506.07603](http://arxiv.org/abs/2506.07603)|null|
+|**2025-06-09**|**Flowing Datasets with Wasserstein over Wasserstein Gradient Flows**|Clément Bonet et.al.|[2506.07534](http://arxiv.org/abs/2506.07534)|**[link](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows)**|
+|**2025-06-09**|**Premise Selection for a Lean Hammer**|Thomas Zhu et.al.|[2506.07477](http://arxiv.org/abs/2506.07477)|null|
+|**2025-06-09**|**Understanding Cross-Domain Adaptation in Low-Resource Topic Modeling**|Pritom Saha Akash et.al.|[2506.07453](http://arxiv.org/abs/2506.07453)|null|
+|**2025-06-09**|**Variational Supervised Contrastive Learning**|Ziwen Wang et.al.|[2506.07413](http://arxiv.org/abs/2506.07413)|null|
+|**2025-06-09**|**Moment Alignment: Unifying Gradient and Hessian Matching for Domain Generalization**|Yuen Chen et.al.|[2506.07378](http://arxiv.org/abs/2506.07378)|null|
+|**2025-06-08**|**Transfer Learning and Explainable AI for Brain Tumor Classification: A Study Using MRI Data from Bangladesh**|Shuvashis Sarker et.al.|[2506.07228](http://arxiv.org/abs/2506.07228)|null|
+|**2025-06-08**|**State Entropy Regularization for Robust Reinforcement Learning**|Uri Koren et.al.|[2506.07085](http://arxiv.org/abs/2506.07085)|null|
+|**2025-06-08**|**UdonCare: Hierarchy Pruning for Unseen Domain Discovery in Predictive Healthcare**|Pengfei Hu et.al.|[2506.06977](http://arxiv.org/abs/2506.06977)|null|
+|**2025-06-07**|**Mixture of Small and Large Models for Chinese Spelling Check**|Ziheng Qiao et.al.|[2506.06887](http://arxiv.org/abs/2506.06887)|null|
+|**2025-06-07**|**Exploring Visual Prompting: Robustness Inheritance and Beyond**|Qi Li et.al.|[2506.06823](http://arxiv.org/abs/2506.06823)|null|
+|**2025-06-07**|**Generalized Trajectory Scoring for End-to-end Multimodal Planning**|Zhenxin Li et.al.|[2506.06664](http://arxiv.org/abs/2506.06664)|null|
+|**2025-06-06**|**Textile Analysis for Recycling Automation using Transfer Learning and Zero-Shot Foundation Models**|Yannis Spyridis et.al.|[2506.06569](http://arxiv.org/abs/2506.06569)|null|
+|**2025-06-06**|**Full Conformal Adaptation of Medical Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2506.06076](http://arxiv.org/abs/2506.06076)|null|
+|**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024](http://arxiv.org/abs/2506.06024)|null|
 |**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
 |**2025-06-04**|**macOSWorld: A Multilingual Interactive Benchmark for GUI Agents**|Pei Yang et.al.|[2506.04135](http://arxiv.org/abs/2506.04135)|null|
 |**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
@@ -835,7 +878,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
