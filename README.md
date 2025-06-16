@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|null|
+|**2025-06-11**|**MEDUSA: A Multimodal Deep Fusion Multi-Stage Training Framework for Speech Emotion Recognition in Naturalistic Conditions**|Georgios Chatzichristodoulou et.al.|[2506.09556](http://arxiv.org/abs/2506.09556)|**[link](https://github.com/emopodntua/medusa)**|
+|**2025-06-13**|**Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data**|Bingjie Zhang et.al.|[2506.09093](http://arxiv.org/abs/2506.09093)|null|
+|**2025-06-13**|**LLaVA-c: Continual Improved Visual Instruction Tuning**|Wenzhuo Liu et.al.|[2506.08666](http://arxiv.org/abs/2506.08666)|null|
+|**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|**[link](https://github.com/violayhho/flood-damagesense)**|
 |**2025-06-06**|**Lightweight Prompt Biasing for Contextualized End-to-End ASR Systems**|Bo Ren et.al.|[2506.06252](http://arxiv.org/abs/2506.06252)|null|
 |**2025-06-06**|**Gradient Similarity Surgery in Multi-Task Deep Learning**|Thomas Borsani et.al.|[2506.06130](http://arxiv.org/abs/2506.06130)|null|
 |**2025-06-03**|**MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver**|Yuepeng Zheng et.al.|[2506.02935](http://arxiv.org/abs/2506.02935)|null|
@@ -89,16 +92,22 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
+|**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
+|**2025-06-13**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li et.al.|[2506.09565](http://arxiv.org/abs/2506.09565)|null|
+|**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710](http://arxiv.org/abs/2506.08710)|null|
+|**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
+|**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Juan Yeo et.al.|[2506.08678](http://arxiv.org/abs/2506.08678)|null|
+|**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|**[link](https://github.com/astra-vision/stablemtl)**|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
 |**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
-|**2025-06-09**|**Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent**|Shoon Kit Lim et.al.|[2506.07509](http://arxiv.org/abs/2506.07509)|null|
+|**2025-06-09**|**Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent**|Shoon Kit Lim et.al.|[2506.07509](http://arxiv.org/abs/2506.07509)|**[link](https://github.com/limshoonkit/ros2-agent-ws)**|
 |**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
 |**2025-06-08**|**BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction**|Yunxiao Shi et.al.|[2506.07002](http://arxiv.org/abs/2506.07002)|null|
 |**2025-06-07**|**IRS: Instance-Level 3D Scene Graphs via Room Prior Guided LiDAR-Camera Fusion**|Hongming Chen et.al.|[2506.06804](http://arxiv.org/abs/2506.06804)|null|
@@ -371,7 +380,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## MTO
 
@@ -399,12 +408,13 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## MOO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**A Cubic Regularization Method for Multiobjective Optimization**|Douglas S. Gonçalves et.al.|[2506.08181](http://arxiv.org/abs/2506.08181)|null|
 |**2025-05-29**|**Evaluating the Efficacy of LLM-Based Reasoning for Multiobjective HPC Job Scheduling**|Prachi Jadhav et.al.|[2506.02025](http://arxiv.org/abs/2506.02025)|null|
 |**2025-05-31**|**iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs**|Runkai Li et.al.|[2505.22086](http://arxiv.org/abs/2505.22086)|null|
 |**2025-05-20**|**A Quasi-Newton Method to Solve Uncertain Multiobjective Optimization Problems with Uncertainty Set of Finite Cardinality**|K. Gupta et.al.|[2505.13967](http://arxiv.org/abs/2505.13967)|null|
@@ -442,12 +452,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**Instance-Based Transfer Learning with Similarity-Aware Subject Selection for Cross-Subject SSVEP-Based BCIs**|Ziwen Wang et.al.|[2506.10933](http://arxiv.org/abs/2506.10933)|null|
+|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/abs/2506.10896)|null|
+|**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833](http://arxiv.org/abs/2506.10833)|null|
+|**2025-06-12**|**ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation**|Xi Chen et.al.|[2506.10675](http://arxiv.org/abs/2506.10675)|null|
+|**2025-06-12**|**Efficient nanophotonic devices optimization using deep neural network trained with physics-based transfer learning (PBTL) methodology**|Gibaek Kim et.al.|[2506.10418](http://arxiv.org/abs/2506.10418)|null|
+|**2025-06-12**|**Uncertainty-Aware Deep Learning for Automated Skin Cancer Classification: A Comprehensive Evaluation**|Hamzeh Asgharnezhad et.al.|[2506.10302](http://arxiv.org/abs/2506.10302)|null|
+|**2025-06-12**|**Flick: Few Labels Text Classification using K-Aware Intermediate Learning in Multi-Task Low-Resource Languages**|Ali Almutairi et.al.|[2506.10292](http://arxiv.org/abs/2506.10292)|null|
+|**2025-06-11**|**Going beyond density functional theory accuracy: Leveraging experimental data to refine pre-trained machine learning interatomic potentials**|Shriya Gumber et.al.|[2506.10211](http://arxiv.org/abs/2506.10211)|null|
+|**2025-06-11**|**Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows**|Zhecheng Liu et.al.|[2506.10153](http://arxiv.org/abs/2506.10153)|null|
+|**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2506.10145](http://arxiv.org/abs/2506.10145)|null|
+|**2025-06-11**|**Description and Discussion on DCASE 2025 Challenge Task 2: First-shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring**|Tomoya Nishida et.al.|[2506.10097](http://arxiv.org/abs/2506.10097)|null|
+|**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[2506.09881](http://arxiv.org/abs/2506.09881)|**[link](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
+|**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
+|**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552](http://arxiv.org/abs/2506.09552)|null|
+|**2025-06-11**|**Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**|Amirreza Khoshbakht et.al.|[2506.09460](http://arxiv.org/abs/2506.09460)|null|
+|**2025-06-11**|**Harmonizing and Merging Source Models for CLIP-based Domain Generalization**|Yuhe Ding et.al.|[2506.09446](http://arxiv.org/abs/2506.09446)|null|
+|**2025-06-11**|**SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation**|Xinya Liu et.al.|[2506.09403](http://arxiv.org/abs/2506.09403)|**[link](https://github.com/hilab-git/srpl-sfda)**|
+|**2025-06-11**|**An Effective End-to-End Solution for Multimodal Action Recognition**|Songping Wang et.al.|[2506.09345](http://arxiv.org/abs/2506.09345)|null|
+|**2025-06-10**|**ThinkQE: Query Expansion via an Evolving Thinking Process**|Yibin Lei et.al.|[2506.09260](http://arxiv.org/abs/2506.09260)|null|
+|**2025-06-10**|**An Explainable Deep Learning Framework for Brain Stroke and Tumor Progression via MRI Interpretation**|Rajan Das Gupta et.al.|[2506.09161](http://arxiv.org/abs/2506.09161)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
 |**2025-06-09**|**Clustered Federated Learning via Embedding Distributions**|Dekai Zhang et.al.|[2506.07769](http://arxiv.org/abs/2506.07769)|null|
@@ -878,7 +908,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
