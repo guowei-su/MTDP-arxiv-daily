@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-22**|**TEM^3-Learning: Time-Efficient Multimodal Multi-Task Learning for Advanced Assistive Driving**|Wenzhuo Liu et.al.|[2506.18084](http://arxiv.org/abs/2506.18084)|null|
+|**2025-06-23**|**Multi-label Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets**|Ke Li et.al.|[2506.17101](http://arxiv.org/abs/2506.17101)|**[link](https://github.com/kelisbu/kaa-cal)**|
+|**2025-06-19**|**Black-Box Privacy Attacks on Shared Representations in Multitask Learning**|John Abascal et.al.|[2506.16460](http://arxiv.org/abs/2506.16460)|null|
 |**2025-06-17**|**BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models**|Bharath Dandala et.al.|[2506.14861](http://arxiv.org/abs/2506.14861)|**[link](https://github.com/biomedsciai/biomed-multi-omic)**|
 |**2025-06-16**|**CALM: Consensus-Aware Localized Merging for Multi-Task Learning**|Kunda Yan et.al.|[2506.13406](http://arxiv.org/abs/2506.13406)|null|
 |**2025-06-11**|**MEDUSA: A Multimodal Deep Fusion Multi-Stage Training Framework for Speech Emotion Recognition in Naturalistic Conditions**|Georgios Chatzichristodoulou et.al.|[2506.09556](http://arxiv.org/abs/2506.09556)|**[link](https://github.com/emopodntua/medusa)**|
@@ -94,12 +97,23 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
+|**2025-06-24**|**Surgery-R1: Advancing Surgical-VQLA with Reasoning Multimodal Large Language Model via Reinforcement Learning**|Pengfei Hao et.al.|[2506.19469](http://arxiv.org/abs/2506.19469)|null|
+|**2025-06-24**|**Segment Any 3D-Part in a Scene from a Sentence**|Hongyu Wu et.al.|[2506.19331](http://arxiv.org/abs/2506.19331)|null|
+|**2025-06-24**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Runwei Guan et.al.|[2506.19288](http://arxiv.org/abs/2506.19288)|null|
+|**2025-06-24**|**Object-aware Sound Source Localization via Audio-Visual Scene Understanding**|Sung Jin Um et.al.|[2506.18557](http://arxiv.org/abs/2506.18557)|null|
+|**2025-06-23**|**DIP: Unsupervised Dense In-Context Post-training of Visual Representations**|Sophia Sirko-Galouchenko et.al.|[2506.18463](http://arxiv.org/abs/2506.18463)|null|
+|**2025-06-22**|**TEM^3-Learning: Time-Efficient Multimodal Multi-Task Learning for Advanced Assistive Driving**|Wenzhuo Liu et.al.|[2506.18084](http://arxiv.org/abs/2506.18084)|null|
+|**2025-06-22**|**Feedback Driven Multi Stereo Vision System for Real-Time Event Analysis**|Mohamed Benkedadra et.al.|[2506.17910](http://arxiv.org/abs/2506.17910)|null|
+|**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[2506.17632](http://arxiv.org/abs/2506.17632)|null|
+|**2025-06-21**|**Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations**|Zhihao Yuan et.al.|[2506.17545](http://arxiv.org/abs/2506.17545)|null|
 |**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[2506.14271](http://arxiv.org/abs/2506.14271)|null|
 |**2025-06-17**|**Unified Representation Space for 3D Visual Grounding**|Yinuo Zheng et.al.|[2506.14238](http://arxiv.org/abs/2506.14238)|null|
 |**2025-06-17**|**SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability**|Juho Bai et.al.|[2506.14144](http://arxiv.org/abs/2506.14144)|null|
@@ -390,7 +404,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## MTO
 
@@ -418,7 +432,7 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## MOO
 
@@ -463,12 +477,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
+|**2025-06-24**|**General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound**|Jakob Ambsdorf et.al.|[2506.19552](http://arxiv.org/abs/2506.19552)|null|
+|**2025-06-24**|**From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data**|Yuanyuan Zhang et.al.|[2506.19358](http://arxiv.org/abs/2506.19358)|null|
+|**2025-06-24**|**Progressive Modality Cooperation for Multi-Modality Domain Adaptation**|Weichen Zhang et.al.|[2506.19316](http://arxiv.org/abs/2506.19316)|null|
+|**2025-06-24**|**Self-Paced Collaborative and Adversarial Network for Unsupervised Domain Adaptation**|Weichen Zhang et.al.|[2506.19267](http://arxiv.org/abs/2506.19267)|null|
+|**2025-06-23**|**Enhanced Hybrid Transducer and Attention Encoder Decoder with Text Data**|Yun Tang et.al.|[2506.19159](http://arxiv.org/abs/2506.19159)|null|
+|**2025-06-23**|**Orthogonal Projection Subspace to Aggregate Online Prior-knowledge for Continual Test-time Adaptation**|Jinlong Li et.al.|[2506.19022](http://arxiv.org/abs/2506.19022)|null|
+|**2025-06-22**|**Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction**|Rui An et.al.|[2506.18939](http://arxiv.org/abs/2506.18939)|null|
+|**2025-06-23**|**Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers**|Suyash Gaurav et.al.|[2506.18791](http://arxiv.org/abs/2506.18791)|null|
+|**2025-06-23**|**Leveraging Transfer Learning to Overcome Data Limitations in Czochralski Crystal Growth**|Milena Petkovic et.al.|[2506.18774](http://arxiv.org/abs/2506.18774)|null|
+|**2025-06-23**|**Benchmarking histopathology foundation models in a multi-center dataset for skin cancer subtyping**|Pablo Meseguer et.al.|[2506.18668](http://arxiv.org/abs/2506.18668)|null|
+|**2025-06-23**|**Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models**|Jiangyu Han et.al.|[2506.18623](http://arxiv.org/abs/2506.18623)|null|
+|**2025-06-23**|**When Fine-Tuning Fails: Lessons from MS MARCO Passage Ranking**|Manu Pande et.al.|[2506.18535](http://arxiv.org/abs/2506.18535)|null|
+|**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
+|**2025-06-23**|**Leveraging neural network interatomic potentials for a foundation model of chemistry**|So Yeon Kim et.al.|[2506.18497](http://arxiv.org/abs/2506.18497)|null|
+|**2025-06-23**|**These are Not All the Features You are Looking For: A Fundamental Bottleneck In Supervised Pretraining**|Xingyu Alice Yang et.al.|[2506.18221](http://arxiv.org/abs/2506.18221)|null|
+|**2025-06-22**|**DExNet: Combining Observations of Domain Adapted Critics for Leaf Disease Classification with Limited Data**|Sabbir Ahmed et.al.|[2506.18173](http://arxiv.org/abs/2506.18173)|null|
+|**2025-06-22**|**TEM^3-Learning: Time-Efficient Multimodal Multi-Task Learning for Advanced Assistive Driving**|Wenzhuo Liu et.al.|[2506.18084](http://arxiv.org/abs/2506.18084)|null|
+|**2025-06-22**|**Deep Supervised LSTM for 3D morphology estimation from Multi-View RGB Images of Wheat Spikes**|Olivia Zumsteg et.al.|[2506.18060](http://arxiv.org/abs/2506.18060)|null|
+|**2025-06-22**|**Classification of Tents in Street Bazaars Using CNN**|Azamat Ibragimov et.al.|[2506.17946](http://arxiv.org/abs/2506.17946)|null|
 |**2025-06-18**|**Domain Adaptation for Image Classification of Defects in Semiconductor Manufacturing**|Adrian Poniatowski et.al.|[2506.15260](http://arxiv.org/abs/2506.15260)|null|
 |**2025-06-18**|**ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs**|Feng He et.al.|[2506.15211](http://arxiv.org/abs/2506.15211)|null|
 |**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
@@ -939,7 +973,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
