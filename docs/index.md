@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
@@ -94,6 +94,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models**|Shiyi Wang et.al.|[2506.21627](http://arxiv.org/abs/2506.21627)|null|
+|**2025-06-26**|**CoPa-SG: Dense Scene Graphs with Parametric and Proto-Relations**|Julian Lorenz et.al.|[2506.21357](http://arxiv.org/abs/2506.21357)|null|
+|**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
+|**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
+|**2025-06-25**|**IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals**|Markus Gross et.al.|[2506.20671](http://arxiv.org/abs/2506.20671)|null|
+|**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
+|**2025-06-25**|**DreamAnywhere: Object-Centric Panoramic 3D Scene Generation**|Edoardo Alberto Dominici et.al.|[2506.20367](http://arxiv.org/abs/2506.20367)|null|
+|**2025-06-25**|**From Ideal to Real: Unified and Data-Efficient Dense Prediction for Real-World Scenarios**|Changliang Xia et.al.|[2506.20279](http://arxiv.org/abs/2506.20279)|null|
 |**2025-06-24**|**HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions**|Mrunmai Vivek Phatak et.al.|[2506.19639](http://arxiv.org/abs/2506.19639)|null|
 |**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
 |**2025-06-24**|**Surgery-R1: Advancing Surgical-VQLA with Reasoning Multimodal Large Language Model via Reinforcement Learning**|Pengfei Hao et.al.|[2506.19469](http://arxiv.org/abs/2506.19469)|null|
@@ -468,6 +476,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al.|[2506.22393](http://arxiv.org/abs/2506.22393)|null|
+|**2025-06-27**|**Weakly-Supervised Domain Adaptation with Proportion-Constrained Pseudo-Labeling**|Takumi Okuo et.al.|[2506.22301](http://arxiv.org/abs/2506.22301)|null|
+|**2025-06-27**|**Transfer Learning for Assessing Heavy Metal Pollution in Seaports Sediments**|Tin Lai et.al.|[2506.22096](http://arxiv.org/abs/2506.22096)|null|
+|**2025-06-27**|**Seismic resolution enhancement via deep Learning with Knowledge Distillation and Domain Adaptation**|Hanpeng Cai et.al.|[2506.22018](http://arxiv.org/abs/2506.22018)|null|
+|**2025-06-27**|**Visual Content Detection in Educational Videos with Transfer Learning and Dataset Enrichment**|Dipayan Biswas et.al.|[2506.21903](http://arxiv.org/abs/2506.21903)|null|
+|**2025-06-27**|**Exploring Task-Solving Paradigm for Generalized Cross-Domain Face Anti-Spoofing via Reinforcement Fine-Tuning**|Fangling Jiang et.al.|[2506.21895](http://arxiv.org/abs/2506.21895)|null|
+|**2025-06-27**|**Embodied Domain Adaptation for Object Detection**|Xiangyu Shi et.al.|[2506.21860](http://arxiv.org/abs/2506.21860)|null|
+|**2025-06-26**|**Offensive Language Detection on Social Media Using XLNet**|Reem Alothman et.al.|[2506.21795](http://arxiv.org/abs/2506.21795)|null|
+|**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
+|**2025-06-26**|**TITAN: Query-Token based Domain Adaptive Adversarial Learning**|Tajamul Ashraf et.al.|[2506.21484](http://arxiv.org/abs/2506.21484)|null|
+|**2025-06-26**|**Benchmarking Deep Learning and Vision Foundation Models for Atypical vs. Normal Mitosis Classification with Cross-Dataset Evaluation**|Sweta Banerjee et.al.|[2506.21444](http://arxiv.org/abs/2506.21444)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
+|**2025-06-26**|**Unlocking Constraints: Source-Free Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2506.21198](http://arxiv.org/abs/2506.21198)|null|
+|**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165](http://arxiv.org/abs/2506.21165)|null|
+|**2025-06-28**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
+|**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
+|**2025-06-25**|**FixCLR: Negative-Class Contrastive Learning for Semi-Supervised Domain Generalization**|Ha Min Son et.al.|[2506.20841](http://arxiv.org/abs/2506.20841)|null|
+|**2025-06-25**|**Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher**|Tomas Gallo Aquino et.al.|[2506.20834](http://arxiv.org/abs/2506.20834)|null|
+|**2025-06-25**|**A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools**|Minh-Hao Van et.al.|[2506.20743](http://arxiv.org/abs/2506.20743)|null|
+|**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
 |**2025-06-24**|**General Methods Make Great Domain-specific Foundation Models: A Case-study on Fetal Ultrasound**|Jakob Ambsdorf et.al.|[2506.19552](http://arxiv.org/abs/2506.19552)|null|
 |**2025-06-24**|**From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data**|Yuanyuan Zhang et.al.|[2506.19358](http://arxiv.org/abs/2506.19358)|null|
