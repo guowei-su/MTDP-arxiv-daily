@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MTL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-12**|**Balancing Semantic Relevance and Engagement in Related Video Recommendations**|Amit Jaspal et.al.|[2507.09403](http://arxiv.org/abs/2507.09403)|null|
+|**2025-07-12**|**S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe**|Yanan Cao et.al.|[2507.09101](http://arxiv.org/abs/2507.09101)|null|
+|**2025-07-11**|**SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization with Joint Global-Local Perturbation**|Hao Ban et.al.|[2507.07883](http://arxiv.org/abs/2507.07883)|null|
+|**2025-07-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al.|[2507.07579](http://arxiv.org/abs/2507.07579)|null|
+|**2025-07-10**|**Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning**|Wooseong Jeong et.al.|[2507.07485](http://arxiv.org/abs/2507.07485)|null|
 |**2025-07-09**|**Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images**|Till Nicke et.al.|[2507.05742](http://arxiv.org/abs/2507.05742)|null|
 |**2025-07-02**|**Autoadaptive Medical Segment Anything Model**|Tyler Ward et.al.|[2507.01828](http://arxiv.org/abs/2507.01828)|null|
 |**2025-07-08**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Zhuangfei Cheng et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
@@ -101,10 +106,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
+|**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
+|**2025-07-13**|**Self-supervised Pretraining for Integrated Prediction and Planning of Automated Vehicles**|Yangang Ren et.al.|[2507.09537](http://arxiv.org/abs/2507.09537)|null|
+|**2025-07-12**|**Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding**|Wencan Huang et.al.|[2507.09334](http://arxiv.org/abs/2507.09334)|null|
+|**2025-07-12**|**THYME: Temporal Hierarchical-Cyclic Interactivity Modeling for Video Scene Graphs in Aerial Footage**|Trong-Thuan Nguyen et.al.|[2507.09200](http://arxiv.org/abs/2507.09200)|null|
+|**2025-07-12**|**Towards Spatial Audio Understanding via Question Answering**|Parthasaarathy Sudarsanam et.al.|[2507.09195](http://arxiv.org/abs/2507.09195)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
 |**2025-07-09**|**Learning from Sparse Point Labels for Dense Carcinosis Localization in Advanced Ovarian Cancer Assessment**|Farahdiba Zarin et.al.|[2507.06643](http://arxiv.org/abs/2507.06643)|null|
 |**2025-07-09**|**Token Bottleneck: One Token to Remember Dynamics**|Taekyung Kim et.al.|[2507.06543](http://arxiv.org/abs/2507.06543)|null|
-|**2025-07-09**|**What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies**|Yaoqi Huang et.al.|[2507.06513](http://arxiv.org/abs/2507.06513)|null|
+|**2025-07-15**|**What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies**|Yaoqi Huang et.al.|[2507.06513](http://arxiv.org/abs/2507.06513)|null|
 |**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230](http://arxiv.org/abs/2507.06230)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 |**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Jing Liang et.al.|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
@@ -465,6 +480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Multiobjective Aerodynamic Design Optimization of the NASA Common Research Model**|Kade Carlson et.al.|[2507.10488](http://arxiv.org/abs/2507.10488)|null|
 |**2025-07-09**|**Nestorv's Accelerated Proximal Gradient Method with Backtracking for Multiobjective Optimization**|Chengzhi Huang et.al.|[2507.06737](http://arxiv.org/abs/2507.06737)|null|
 |**2025-06-13**|**Worst-Case Complexity of High-Order Algorithms for Pareto-Front Reconstruction**|Andrea Cristofari et.al.|[2506.11929](http://arxiv.org/abs/2506.11929)|null|
 |**2025-06-09**|**A Cubic Regularization Method for Multiobjective Optimization**|Douglas S. Gonçalves et.al.|[2506.08181](http://arxiv.org/abs/2506.08181)|null|
@@ -509,6 +525,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**National level satellite-based crop field inventories in smallholder landscapes**|Philippe Rufin et.al.|[2507.10499](http://arxiv.org/abs/2507.10499)|null|
+|**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Jiaming Tian et.al.|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
+|**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Shuyu Yang et.al.|[2507.10195](http://arxiv.org/abs/2507.10195)|null|
+|**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160](http://arxiv.org/abs/2507.10160)|null|
+|**2025-07-14**|**A Transfer Learning-Based Method for Water Body Segmentation in Remote Sensing Imagery: A Case Study of the Zhada Tulin Area**|Haonan Chen et.al.|[2507.10084](http://arxiv.org/abs/2507.10084)|null|
+|**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
+|**2025-07-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Lihua Zhou et.al.|[2507.09961](http://arxiv.org/abs/2507.09961)|null|
+|**2025-07-14**|**Statistical Inference for Conditional Group Distributionally Robust Optimization with Cross-Entropy Loss**|Zijian Guo et.al.|[2507.09905](http://arxiv.org/abs/2507.09905)|null|
+|**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
+|**2025-07-13**|**Low-Rank Adaptation of Deep Prior Neural Networks For Room Impulse Response Reconstruction**|Mirco Pezzoli et.al.|[2507.09806](http://arxiv.org/abs/2507.09806)|null|
+|**2025-07-13**|**Pre-trained Under Noise: A Framework for Robust Bone Fracture Detection in Medical Imaging**|Robby Hoover et.al.|[2507.09731](http://arxiv.org/abs/2507.09731)|null|
+|**2025-07-13**|**Hybrid Quantum-Classical Generative Adversarial Networks with Transfer Learning**|Asma Al-Othni et.al.|[2507.09706](http://arxiv.org/abs/2507.09706)|null|
+|**2025-07-13**|**NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance**|Hanwool Lee et.al.|[2507.09601](http://arxiv.org/abs/2507.09601)|null|
+|**2025-07-13**|**Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring**|Noah Marchal et.al.|[2507.09460](http://arxiv.org/abs/2507.09460)|null|
+|**2025-07-12**|**Domain Adaptation and Multi-view Attention for Learnable Landmark Tracking with Sparse Data**|Timothy Chase Jr et.al.|[2507.09420](http://arxiv.org/abs/2507.09420)|null|
+|**2025-07-12**|**EduFlow: Advancing MLLMs' Problem-Solving Proficiency through Multi-Stage, Multi-Perspective Critique**|Chenglin Zhu et.al.|[2507.09374](http://arxiv.org/abs/2507.09374)|null|
+|**2025-07-12**|**Simplifying Traffic Anomaly Detection with Video Foundation Models**|Svetlana Orlova et.al.|[2507.09338](http://arxiv.org/abs/2507.09338)|null|
+|**2025-07-12**|**Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift**|Behraj Khan et.al.|[2507.09222](http://arxiv.org/abs/2507.09222)|null|
+|**2025-07-12**|**CycleGAN-Driven Transfer Learning for Electronics Response Emulation in High-Purity Germanium Detectors**|Kevin Bhimani et.al.|[2507.09106](http://arxiv.org/abs/2507.09106)|null|
+|**2025-07-11**|**From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2507.09081](http://arxiv.org/abs/2507.09081)|null|
 |**2025-07-09**|**Deep Brain Net: An Optimized Deep Learning Model for Brain tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning**|Daniel Onah et.al.|[2507.07011](http://arxiv.org/abs/2507.07011)|null|
 |**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
 |**2025-07-10**|**ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining**|Seonwu Kim et.al.|[2507.06795](http://arxiv.org/abs/2507.06795)|null|
