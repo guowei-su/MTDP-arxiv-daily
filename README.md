@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,9 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Multi-Class-Token Transformer for Multitask Self-supervised Music Information Retrieval**|Yuexuan Kong et.al.|[2507.12996](http://arxiv.org/abs/2507.12996)|null|
+|**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
+|**2025-07-15**|**Robust-Multi-Task Gradient Boosting**|Seyedsaman Emami et.al.|[2507.11411](http://arxiv.org/abs/2507.11411)|null|
+|**2025-07-15**|**Mixture of Experts in Large Language Models**|Danyang Zhang et.al.|[2507.11181](http://arxiv.org/abs/2507.11181)|null|
 |**2025-07-12**|**Balancing Semantic Relevance and Engagement in Related Video Recommendations**|Amit Jaspal et.al.|[2507.09403](http://arxiv.org/abs/2507.09403)|null|
 |**2025-07-12**|**S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe**|Yanan Cao et.al.|[2507.09101](http://arxiv.org/abs/2507.09101)|null|
-|**2025-07-11**|**SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization with Joint Global-Local Perturbation**|Hao Ban et.al.|[2507.07883](http://arxiv.org/abs/2507.07883)|null|
+|**2025-07-15**|**SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization with Joint Global-Local Perturbation**|Hao Ban et.al.|[2507.07883](http://arxiv.org/abs/2507.07883)|null|
 |**2025-07-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al.|[2507.07579](http://arxiv.org/abs/2507.07579)|null|
 |**2025-07-10**|**Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning**|Wooseong Jeong et.al.|[2507.07485](http://arxiv.org/abs/2507.07485)|null|
 |**2025-07-09**|**Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images**|Till Nicke et.al.|[2507.05742](http://arxiv.org/abs/2507.05742)|null|
@@ -109,12 +113,21 @@
 |**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
 |**2025-01-29**|**Model-checking real-time systems: revisiting the alternating automaton route**|Patricia Bouyer et.al.|[2501.17576](http://arxiv.org/abs/2501.17576)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Jingyao Wang et.al.|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
+|**2025-07-17**|**Argus: Leveraging Multiview Images for Improved 3-D Scene Understanding With Large Language Models**|Yifan Xu et.al.|[2507.12916](http://arxiv.org/abs/2507.12916)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
+|**2025-07-16**|**Funnel-HOI: Top-Down Perception for Zero-Shot HOI Detection**|Sandipan Sarma et.al.|[2507.12628](http://arxiv.org/abs/2507.12628)|null|
+|**2025-07-16**|**Frequency-Dynamic Attention Modulation for Dense Prediction**|Linwei Chen et.al.|[2507.12006](http://arxiv.org/abs/2507.12006)|null|
+|**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Maciej Szankin et.al.|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
+|**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
+|**2025-07-15**|**Learning to Tune Like an Expert: Interpretable and Scene-Aware Navigation via MLLM Reasoning and CVAE-Based Adaptation**|Yanbo Wang et.al.|[2507.11001](http://arxiv.org/abs/2507.11001)|null|
+|**2025-07-14**|**Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision**|Justin M. Kasowski et.al.|[2507.10813](http://arxiv.org/abs/2507.10813)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
@@ -459,7 +472,7 @@
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**3D-Grounded Vision-Language Framework for Robotic Task Planning: Automated Prompt Synthesis and Supervised Reasoning**|Guoqin Tang et.al.|[2502.08903](http://arxiv.org/abs/2502.08903)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## MTO
 
@@ -487,14 +500,14 @@
 |**2019-11-15**|**Learning over Multitask Graphs -- Part II: Performance Analysis**|Roula Nassif et.al.|[1805.08547](http://arxiv.org/abs/1805.08547)|null|
 |**2019-11-15**|**Learning over Multitask Graphs -- Part I: Stability Analysis**|Roula Nassif et.al.|[1805.08535](http://arxiv.org/abs/1805.08535)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## MOO
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-14**|**Multiobjective Aerodynamic Design Optimization of the NASA Common Research Model**|Kade Carlson et.al.|[2507.10488](http://arxiv.org/abs/2507.10488)|null|
-|**2025-07-09**|**Nestorv's Accelerated Proximal Gradient Method with Backtracking for Multiobjective Optimization**|Chengzhi Huang et.al.|[2507.06737](http://arxiv.org/abs/2507.06737)|null|
+|**2025-07-16**|**Fast Accelerated Proximal Gradient Method with New Extrapolation Term for Multiobjective Optimization**|Chengzhi Huang et.al.|[2507.06737](http://arxiv.org/abs/2507.06737)|null|
 |**2025-06-13**|**Worst-Case Complexity of High-Order Algorithms for Pareto-Front Reconstruction**|Andrea Cristofari et.al.|[2506.11929](http://arxiv.org/abs/2506.11929)|null|
 |**2025-06-09**|**A Cubic Regularization Method for Multiobjective Optimization**|Douglas S. Gonçalves et.al.|[2506.08181](http://arxiv.org/abs/2506.08181)|null|
 |**2025-05-29**|**Evaluating the Efficacy of LLM-Based Reasoning for Multiobjective HPC Job Scheduling**|Prachi Jadhav et.al.|[2506.02025](http://arxiv.org/abs/2506.02025)|null|
@@ -534,12 +547,32 @@
 |**2025-02-07**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
 |**2024-10-11**|**Global convergence of a modified BFGS-type method based on function information for nonconvex multiobjective optimization problems**|Yingxue Yang et.al.|[2408.00543](http://arxiv.org/abs/2408.00543)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Negative Transfer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-17**|**Disentangling coincident cell events using deep transfer learning and compressive sensing**|Moritz Leuthner et.al.|[2507.13176](http://arxiv.org/abs/2507.13176)|null|
+|**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
+|**2025-07-17**|**Improving Diagnostic Accuracy of Pigmented Skin Lesions With CNNs: an Application on the DermaMNIST Dataset**|Nerma Kadric et.al.|[2507.12961](http://arxiv.org/abs/2507.12961)|null|
+|**2025-07-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al.|[2507.12851](http://arxiv.org/abs/2507.12851)|null|
+|**2025-07-17**|**IDS-Net: A novel framework for few-shot photovoltaic power prediction with interpretable dynamic selection and feature information fusion**|Hang Fan et.al.|[2507.12745](http://arxiv.org/abs/2507.12745)|null|
+|**2025-07-17**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Homare Sueyoshi et.al.|[2507.12730](http://arxiv.org/abs/2507.12730)|null|
+|**2025-07-16**|**Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions**|Athanasios Papastathopoulos-Katsaros et.al.|[2507.12659](http://arxiv.org/abs/2507.12659)|null|
+|**2025-07-16**|**Best Practices for Large-Scale, Pixel-Wise Crop Mapping and Transfer Learning Workflows**|Judy Long et.al.|[2507.12590](http://arxiv.org/abs/2507.12590)|null|
+|**2025-07-16**|**Hybrid Ensemble Approaches: Optimal Deep Feature Fusion and Hyperparameter-Tuned Classifier Ensembling for Enhanced Brain Tumor Classification**|Zahid Ullah et.al.|[2507.12177](http://arxiv.org/abs/2507.12177)|null|
+|**2025-07-16**|**InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing**|Kun-Hsiang Lin et.al.|[2507.12060](http://arxiv.org/abs/2507.12060)|null|
+|**2025-07-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al.|[2507.12017](http://arxiv.org/abs/2507.12017)|null|
+|**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Jiawen Wang et.al.|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
+|**2025-07-16**|**Prototypical Progressive Alignment and Reweighting for Generalizable Semantic Segmentation**|Yuhang Zhang et.al.|[2507.11955](http://arxiv.org/abs/2507.11955)|null|
+|**2025-07-15**|**Physics-Informed Transfer Learning for Data-Driven Sound Source Reconstruction in Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2507.11070](http://arxiv.org/abs/2507.11070)|null|
+|**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
+|**2025-07-15**|**Graph Aggregation Prototype Learning for Semantic Change Detection in Remote Sensing**|Zhengyi Xu et.al.|[2507.10938](http://arxiv.org/abs/2507.10938)|null|
+|**2025-07-15**|**Domain-Adaptive Small Language Models for Structured Tax Code Prediction**|Souvik Nath et.al.|[2507.10880](http://arxiv.org/abs/2507.10880)|null|
+|**2025-07-14**|**HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity**|Matteo Bagagli et.al.|[2507.10850](http://arxiv.org/abs/2507.10850)|null|
 |**2025-07-14**|**National level satellite-based crop field inventories in smallholder landscapes**|Philippe Rufin et.al.|[2507.10499](http://arxiv.org/abs/2507.10499)|null|
 |**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Jiaming Tian et.al.|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
 |**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Shuyu Yang et.al.|[2507.10195](http://arxiv.org/abs/2507.10195)|null|
@@ -1110,7 +1143,7 @@
 |**2025-02-27**|**Test-Time Modality Generalization for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.19671](http://arxiv.org/abs/2502.19671)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
